@@ -1,0 +1,396 @@
+"/Users/lazza_fisio/Desktop/The Game/Game/Game.uproject" 1
+"/Users/Shared/Epic Games/UE_4.20/Engine/Binaries/Mac/UE4Editor.app/Contents/MacOS/UE4Editor.modules" 2
+"/Users/Shared/Epic Games/UE_4.20/Engine/Binaries/Mac/UE4Editor.app/Contents/MacOS/HTML5/UE4Editor.modules" 3
+"/Users/Shared/Epic Games/UE_4.20/Engine/Binaries/Mac/UE4Editor.app/Contents/MacOS/Lumin/UE4Editor.modules" 4
+"/Users/Shared/Epic Games/UE_4.20/Engine/Binaries/Mac/UE4Editor.app/Contents/MacOS/IOS/UE4Editor.modules" 5
+"/Users/Shared/Epic Games/UE_4.20/Engine/Binaries/Mac/UE4Editor.app/Contents/MacOS/Android/UE4Editor.modules" 6
+"../../../Engine/Plugins/Experimental/AppleVision/AppleVision.uplugin" 7
+"../../../Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin" 8
+"../../../Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin" 9
+"../../../Engine/Plugins/Experimental/BackChannel/BackChannel.uplugin" 10
+"../../../Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin" 11
+"../../../Engine/Plugins/Experimental/Shotgun/Shotgun.uplugin" 12
+"../../../Engine/Plugins/Experimental/PythonScriptPlugin/PythonScriptPlugin.uplugin" 13
+"../../../Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin" 14
+"../../../Engine/Plugins/Experimental/OSVR/OSVR.uplugin" 15
+"../../../Engine/Plugins/Experimental/ImagePlate/ImagePlate.uplugin" 16
+"../../../Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin" 17
+"../../../Engine/Plugins/Experimental/VirtualCamera/VirtualCamera.uplugin" 18
+"../../../Engine/Plugins/Experimental/ProxyLODPlugin/ProxyLODPlugin.uplugin" 19
+"../../../Engine/Plugins/Experimental/ControlRig/ControlRig.uplugin" 20
+"../../../Engine/Plugins/Experimental/Gauntlet/Gauntlet.uplugin" 21
+"../../../Engine/Plugins/Experimental/StructBox/StructBox.uplugin" 22
+"../../../Engine/Plugins/Experimental/PlatformCrypto/PlatformCrypto.uplugin" 23
+"../../../Engine/Plugins/Experimental/RemoteSession/RemoteSession.uplugin" 24
+"../../../Engine/Plugins/Experimental/AppleImageUtils/AppleImageUtils.uplugin" 25
+"../../../Engine/Plugins/Experimental/GeometryCache/GeometryCache.uplugin" 26
+"../../../Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin" 27
+"../../../Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin" 28
+"../../../Engine/Plugins/Experimental/RawInput/RawInput.uplugin" 29
+"../../../Engine/Plugins/Experimental/CodeView/CodeView.uplugin" 30
+"../../../Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin" 31
+"../../../Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin" 32
+"../../../Engine/Plugins/Developer/RenderDocPlugin/RenderDocPlugin.uplugin" 33
+"../../../Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin" 34
+"../../../Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin" 35
+"../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/VisualStudioCodeSourceCodeAccess.uplugin" 36
+"../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin" 37
+"../../../Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin" 38
+"../../../Engine/Plugins/Developer/CLionSourceCodeAccess/CLionSourceCodeAccess.uplugin" 39
+"../../../Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin" 40
+"../../../Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin" 41
+"../../../Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin" 42
+"../../../Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin" 43
+"../../../Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin" 44
+"../../../Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin" 45
+"../../../Engine/Plugins/Portal/LauncherChunkInstaller/LauncherChunkInstaller.uplugin" 46
+"../../../Engine/Plugins/MovieScene/ActorSequence/ActorSequence.uplugin" 47
+"../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin" 48
+"../../../Engine/Plugins/MovieScene/SequencerScripting/SequencerScripting.uplugin" 49
+"../../../Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin" 50
+"../../../Engine/Plugins/MovieScene/ActorSequenceEditor/ActorSequenceEditor.uplugin" 51
+"../../../Engine/Plugins/Enterprise/DatasmithContent/DatasmithContent.uplugin" 52
+"../../../Engine/Plugins/Lumin/MagicLeap/MagicLeap.uplugin" 53
+"../../../Engine/Plugins/Lumin/MagicLeapScreens/MagicLeapScreens.uplugin" 54
+"../../../Engine/Plugins/Lumin/MagicLeapMedia/MagicLeapMedia.uplugin" 55
+"../../../Engine/Plugins/Lumin/MagicLeapEmulator/MagicLeapEmulator.uplugin" 56
+"../../../Engine/Plugins/FX/Niagara/Niagara.uplugin" 57
+"../../../Engine/Plugins/FX/HoudiniNiagara/HoudiniNiagara.uplugin" 58
+"../../../Engine/Plugins/FX/NiagaraExtras/NiagaraExtras.uplugin" 59
+"../../../Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin" 60
+"../../../Engine/Plugins/Runtime/RuntimePhysXCooking/RuntimePhysXCooking.uplugin" 61
+"../../../Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin" 62
+"../../../Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin" 63
+"../../../Engine/Plugins/Runtime/ResonanceAudio/ResonanceAudio.uplugin" 64
+"../../../Engine/Plugins/Runtime/GoogleARCore/GoogleARCore.uplugin" 65
+"../../../Engine/Plugins/Runtime/Steam/SteamAudio/SteamAudio.uplugin" 66
+"../../../Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin" 67
+"../../../Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin" 68
+"../../../Engine/Plugins/Runtime/MixedRealityCaptureFramework/MixedRealityCaptureFramework.uplugin" 69
+"../../../Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin" 70
+"../../../Engine/Plugins/Runtime/LocationServicesIOSImpl/LocationServicesIOSImpl.uplugin" 71
+"../../../Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin" 72
+"../../../Engine/Plugins/Runtime/AppleARKit/AppleARKit.uplugin" 73
+"../../../Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin" 74
+"../../../Engine/Plugins/Runtime/ApexDestruction/ApexDestruction.uplugin" 75
+"../../../Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin" 76
+"../../../Engine/Plugins/Runtime/AndroidPermission/AndroidPermission.uplugin" 77
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/OculusVR.uplugin" 78
+"../../../Engine/Plugins/Runtime/Oculus/OculusAudio/OculusAudio.uplugin" 79
+"../../../Engine/Plugins/Runtime/EditableMesh/EditableMesh.uplugin" 80
+"../../../Engine/Plugins/Runtime/Synthesis/Synthesis.uplugin" 81
+"../../../Engine/Plugins/Runtime/ReplicationGraph/ReplicationGraph.uplugin" 82
+"../../../Engine/Plugins/Runtime/SoundUtilities/SoundUtilities.uplugin" 83
+"../../../Engine/Plugins/Runtime/LocationServicesAndroidImpl/LocationServicesAndroidImpl.uplugin" 84
+"../../../Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin" 85
+"../../../Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin" 86
+"../../../Engine/Plugins/Runtime/ImmediatePhysics/ImmediatePhysics.uplugin" 87
+"../../../Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin" 88
+"../../../Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin" 89
+"../../../Engine/Plugins/Runtime/HTTPChunkInstaller/HTTPChunkInstaller.uplugin" 90
+"../../../Engine/Plugins/Runtime/MeshReconstruction/DummyMeshReconstructor/DummyMeshReconstructor.uplugin" 91
+"../../../Engine/Plugins/Runtime/AppleARKitFaceSupport/AppleARKitFaceSupport.uplugin" 92
+"../../../Engine/Plugins/Runtime/nDisplay/nDisplay.uplugin" 93
+"../../../Engine/Plugins/Runtime/AudioCapture/AudioCapture.uplugin" 94
+"../../../Engine/Plugins/Runtime/OptionalMobileFeaturesBPLibrary/OptionalMobileFeaturesBPLibrary.uplugin" 95
+"../../../Engine/Plugins/Runtime/SignificanceManager/SignificanceManager.uplugin" 96
+"../../../Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin" 97
+"../../../Engine/Plugins/Runtime/GameplayAbilities/GameplayAbilities.uplugin" 98
+"../../../Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin" 99
+"../../../Engine/Plugins/Runtime/AnimDistanceMatching/AnimDistanceMatching.uplugin" 100
+"../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin" 101
+"../../../Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin" 102
+"../../../Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin" 103
+"../../../Engine/Plugins/Runtime/PhysXVehicles/PhysXVehicles.uplugin" 104
+"../../../Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin" 105
+"../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin" 106
+"../../../Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin" 107
+"../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/LocationServicesBPLibrary.uplugin" 108
+"../../../Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin" 109
+"../../../Engine/Plugins/Runtime/PacketHandlers/AESHandlerComponent/AESHandlerComponent.uplugin" 110
+"../../../Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin" 111
+"../../../Engine/Plugins/Runtime/GoogleVR/GoogleVRTransition2D/GoogleVRTransition2D.uplugin" 112
+"../../../Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin" 113
+"../../../Engine/Plugins/Runtime/GoogleCloudMessaging/GoogleCloudMessaging.uplugin" 114
+"../../../Engine/Plugins/Runtime/Analytics/Adjust/Adjust.uplugin" 115
+"../../../Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin" 116
+"../../../Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin" 117
+"../../../Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin" 118
+"../../../Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin" 119
+"../../../Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin" 120
+"../../../Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin" 121
+"../../../Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin" 122
+"../../../Engine/Plugins/Tests/EditorTests/EditorTests.uplugin" 123
+"../../../Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin" 124
+"../../../Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin" 125
+"../../../Engine/Plugins/Animation/LiveLink/LiveLink.uplugin" 126
+"../../../Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin" 127
+"../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin" 128
+"../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin" 129
+"../../../Engine/Plugins/Compositing/Composure/Composure.uplugin" 130
+"../../../Engine/Plugins/Compositing/LensDistortion/LensDistortion.uplugin" 131
+"../../../Engine/Plugins/Compositing/OpenCVLensDistortion/OpenCVLensDistortion.uplugin" 132
+"../../../Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin" 133
+"../../../Engine/Plugins/AI/AISupport/AISupport.uplugin" 134
+"../../../Engine/Plugins/AI/HTNPlanner/HTNPlanner.uplugin" 135
+"../../../Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin" 136
+"../../../Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin" 137
+"../../../Engine/Plugins/Online/OnlineSubsystemGoogle/OnlineSubsystemGoogle.uplugin" 138
+"../../../Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin" 139
+"../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin" 140
+"../../../Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin" 141
+"../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin" 142
+"../../../Engine/Plugins/Online/OnlineSubsystemTwitch/OnlineSubsystemTwitch.uplugin" 143
+"../../../Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin" 144
+"../../../Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin" 145
+"../../../Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin" 146
+"../../../Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin" 147
+"../../../Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin" 148
+"../../../Engine/Plugins/Performance/PerformanceMonitor/PerformanceMonitor.uplugin" 149
+"../../../Engine/Plugins/2D/Paper2D/Paper2D.uplugin" 150
+"../../../Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin" 151
+"../../../Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin" 152
+"../../../Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin" 153
+"../../../Engine/Plugins/Editor/FacialAnimation/FacialAnimation.uplugin" 154
+"../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin" 155
+"../../../Engine/Plugins/Editor/BlueprintMaterialTextureNodes/BlueprintMaterialTextureNodes.uplugin" 156
+"../../../Engine/Plugins/Editor/USDImporter/USDImporter.uplugin" 157
+"../../../Engine/Plugins/Editor/AssetManagerEditor/AssetManagerEditor.uplugin" 158
+"../../../Engine/Plugins/Editor/GameplayTagsEditor/GameplayTagsEditor.uplugin" 159
+"../../../Engine/Plugins/Editor/EditorScriptingUtilities/EditorScriptingUtilities.uplugin" 160
+"../../../Engine/Plugins/Editor/CryptoKeys/CryptoKeys.uplugin" 161
+"../../../Engine/Plugins/Editor/MeshEditor/MeshEditor.uplugin" 162
+"../../../Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin" 163
+"../../../Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin" 164
+"../../../Engine/Plugins/Editor/GLTFImporter/GLTFImporter.uplugin" 165
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin" 166
+"../../../Engine/Plugins/Editor/DataValidation/DataValidation.uplugin" 167
+"../../../Engine/Plugins/Media/MfMedia/MfMedia.uplugin" 168
+"../../../Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin" 169
+"../../../Engine/Plugins/Media/MediaCompositing/MediaCompositing.uplugin" 170
+"../../../Engine/Plugins/Media/TimecodeSynchronizer/TimecodeSynchronizer.uplugin" 171
+"../../../Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin" 172
+"../../../Engine/Plugins/Media/MediaFrameworkUtilities/MediaFrameworkUtilities.uplugin" 173
+"../../../Engine/Plugins/Media/AudioCaptureTimecodeProvider/AudioCaptureTimecodeProvider.uplugin" 174
+"../../../Engine/Plugins/Media/ImgMedia/ImgMedia.uplugin" 175
+"../../../Engine/Plugins/Media/LinearTimecode/LinearTimecode.uplugin" 176
+"../../../Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin" 177
+"../../../Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin" 178
+"../../../Engine/Plugins/Media/AndroidCamera/AndroidCamera.uplugin" 179
+"../../../Engine/Plugins/Media/AjaMedia/AjaMedia.uplugin" 180
+"../../../Engine/Content/Internationalization/icudt53l/cnvalias.icu" 181
+"../../../Engine/Content/Internationalization/icudt53l/res_index.res" 182
+"../../../Engine/Content/Internationalization/icudt53l/plurals.res" 183
+"../../../Engine/Content/Internationalization/icudt53l/lang/en.res" 184
+"../../../Engine/Content/Internationalization/icudt53l/lang/pool.res" 185
+"../../../Engine/Content/Internationalization/icudt53l/lang/root.res" 186
+"../../../Engine/Content/Internationalization/icudt53l/region/en.res" 187
+"../../../Engine/Content/Internationalization/icudt53l/region/pool.res" 188
+"../../../Engine/Content/Internationalization/icudt53l/region/root.res" 189
+"../../../Engine/Content/Internationalization/icudt53l/lang/it.res" 190
+"../../../Engine/Content/Internationalization/icudt53l/region/it.res" 191
+"../../../Engine/Content/Internationalization/icudt53l/zoneinfo64.res" 192
+"../../../Engine/Content/Internationalization/icudt53l/keyTypeData.res" 193
+"../../../Engine/Content/Internationalization/icudt53l/timezoneTypes.res" 194
+"../../../Engine/Content/Internationalization/icudt53l/en_US_POSIX.res" 195
+"../../../Engine/Content/Internationalization/icudt53l/pool.res" 196
+"../../../Engine/Content/Internationalization/icudt53l/en_US.res" 197
+"../../../Engine/Content/Internationalization/icudt53l/en.res" 198
+"../../../Engine/Content/Internationalization/icudt53l/root.res" 199
+"/Users/lazza_fisio/Library/Application Support/Epic/Epic Games/KeyValueStore.ini" 200
+"/Users/lazza_fisio/Library/Application Support/Epic/UnrealEngine/4.20/Saved/Config/Mac/Manifest.ini" 201
+"../../../Engine/Config/Lumin/DataDrivenPlatformInfo.ini" 202
+"../../../Engine/Config/Linux/DataDrivenPlatformInfo.ini" 203
+"../../../Engine/Config/Base.ini" 204
+"../../../Engine/Config/BaseEngine.ini" 205
+"/Users/lazza_fisio/Desktop/The Game/Game/Config/DefaultEngine.ini" 206
+"../../../Engine/Config/Mac/MacEngine.ini" 207
+"/Users/lazza_fisio/Library/Preferences/Unreal Engine/GameEditor/Mac/Engine.ini" 208
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/Engine.ini" 209
+"../../../Engine/Config/BaseGame.ini" 210
+"/Users/lazza_fisio/Desktop/The Game/Game/Config/DefaultGame.ini" 211
+"../../../Engine/Config/Mac/MacGame.ini" 212
+"/Users/lazza_fisio/Library/Preferences/Unreal Engine/GameEditor/Mac/Game.ini" 213
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/Game.ini" 214
+"../../../Engine/Config/BaseInput.ini" 215
+"/Users/lazza_fisio/Desktop/The Game/Game/Config/DefaultInput.ini" 216
+"/Users/lazza_fisio/Library/Preferences/Unreal Engine/GameEditor/Mac/Input.ini" 217
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/Input.ini" 218
+"../../../Engine/Config/BaseEditor.ini" 219
+"/Users/lazza_fisio/Desktop/The Game/Game/Config/DefaultEditor.ini" 220
+"/Users/lazza_fisio/Library/Preferences/Unreal Engine/GameEditor/Mac/Editor.ini" 221
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/Editor.ini" 222
+"../../../Engine/Config/BaseEditorPerProjectUserSettings.ini" 223
+"../../../Engine/Config/Mac/MacEditorPerProjectUserSettings.ini" 224
+"/Users/lazza_fisio/Library/Preferences/Unreal Engine/GameEditor/Mac/EditorPerProjectUserSettings.ini" 225
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/EditorPerProjectUserSettings.ini" 226
+"../../../Engine/Config/BaseEditorSettings.ini" 227
+"/Users/lazza_fisio/Library/Application Support/Epic/UnrealEngine/4.20/Saved/Config/Mac/EditorSettings.ini" 228
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/EditorSettings.ini" 229
+"../../../Engine/Config/BaseEditorLayout.ini" 230
+"/Users/lazza_fisio/Library/Application Support/Epic/UnrealEngine/4.20/Saved/Config/Mac/EditorLayout.ini" 231
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/EditorLayout.ini" 232
+"../../../Engine/Config/BaseEditorKeyBindings.ini" 233
+"/Users/lazza_fisio/Library/Application Support/Epic/UnrealEngine/4.20/Saved/Config/Mac/EditorKeyBindings.ini" 234
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/EditorKeyBindings.ini" 235
+"../../../Engine/Config/BaseCompat.ini" 236
+"/Users/lazza_fisio/Library/Preferences/Unreal Engine/GameEditor/Mac/Compat.ini" 237
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/Compat.ini" 238
+"../../../Engine/Config/BaseLightmass.ini" 239
+"/Users/lazza_fisio/Library/Preferences/Unreal Engine/GameEditor/Mac/Lightmass.ini" 240
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/Lightmass.ini" 241
+"../../../Engine/Config/BaseScalability.ini" 242
+"/Users/lazza_fisio/Library/Preferences/Unreal Engine/GameEditor/Mac/Scalability.ini" 243
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/Scalability.ini" 244
+"../../../Engine/Config/BaseHardware.ini" 245
+"/Users/lazza_fisio/Library/Preferences/Unreal Engine/GameEditor/Mac/Hardware.ini" 246
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/Hardware.ini" 247
+"../../../Engine/Config/BaseGameUserSettings.ini" 248
+"/Users/lazza_fisio/Library/Preferences/Unreal Engine/GameEditor/Mac/GameUserSettings.ini" 249
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/GameUserSettings.ini" 250
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/AppleVision.ini" 251
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/BackChannel.ini" 252
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/AlembicImporter.ini" 253
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/ProxyLODPlugin.ini" 254
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/AppleImageUtils.ini" 255
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/GeometryCache.ini" 256
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/CharacterAI.ini" 257
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/HTML5Networking.ini" 258
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/CodeLiteSourceCodeAccess.ini" 259
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/KDevelopSourceCodeAccess.ini" 260
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/UObjectPlugin.ini" 261
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/VisualStudioCodeSourceCodeAccess.ini" 262
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/VisualStudioSourceCodeAccess.ini" 263
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/SubversionSourceControl.ini" 264
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/CLionSourceCodeAccess.ini" 265
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/XCodeSourceCodeAccess.ini" 266
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/PerforceSourceControl.ini" 267
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/NullSourceCodeAccess.ini" 268
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/GitSourceControl.ini" 269
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/LightPropagationVolume.ini" 270
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/LauncherChunkInstaller.ini" 271
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/ActorSequence.ini" 272
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/MatineeToLevelSequence.ini" 273
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/LevelSequenceEditor.ini" 274
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/DatasmithContent.ini" 275
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/MagicLeap.ini" 276
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/MagicLeapMedia.ini" 277
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/MagicLeapEmulator.ini" 278
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/CableComponent.ini" 279
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/RuntimePhysXCooking.ini" 280
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/ProceduralMeshComponent.ini" 281
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/SteamVR.ini" 282
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/AndroidMoviePlayer.ini" 283
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/CustomMeshComponent.ini" 284
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/AndroidPermission.ini" 285
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Config/BaseOculusVR.ini" 286
+"/Users/lazza_fisio/Library/Preferences/Unreal Engine/GameEditor/Mac/OculusVR.ini" 287
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/OculusVR.ini" 288
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/EditableMesh.ini" 289
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/MobilePatchingUtils.ini" 290
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/ImmediatePhysics.ini" 291
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/WindowsMoviePlayer.ini" 292
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/AudioCapture.ini" 293
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/ExampleDeviceProfileSelector.ini" 294
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/IOSDeviceProfileSelector.ini" 295
+"../../../Engine/Plugins/Runtime/PhysXVehicles/Config/BasePhysXVehicles.ini" 296
+"/Users/lazza_fisio/Library/Preferences/Unreal Engine/GameEditor/Mac/PhysXVehicles.ini" 297
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/PhysXVehicles.ini" 298
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/AppleMoviePlayer.ini" 299
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/AndroidDeviceProfileSelector.ini" 300
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/LinuxDeviceProfileSelector.ini" 301
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/LocationServicesBPLibrary.ini" 302
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/ArchVisCharacter.ini" 303
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/GoogleCloudMessaging.ini" 304
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/NetcodeUnitTest.ini" 305
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/NUTUnrealEngine4.ini" 306
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/AISupport.ini" 307
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/OnlineSubsystem.ini" 308
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/OnlineSubsystemIOS.ini" 309
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/OnlineSubsystemGooglePlay.ini" 310
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/OnlineSubsystemNull.ini" 311
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/OnlineSubsystemUtils.ini" 312
+"../../../Engine/Plugins/2D/Paper2D/Config/BasePaper2D.ini" 313
+"/Users/lazza_fisio/Library/Preferences/Unreal Engine/GameEditor/Mac/Paper2D.ini" 314
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/Paper2D.ini" 315
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/TcpMessaging.ini" 316
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/UdpMessaging.ini" 317
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/FacialAnimation.ini" 318
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/MobileLauncherProfileWizard.ini" 319
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/AssetManagerEditor.ini" 320
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/GameplayTagsEditor.ini" 321
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/CryptoKeys.ini" 322
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/MeshEditor.ini" 323
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/MacGraphicsSwitching.ini" 324
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/PluginBrowser.ini" 325
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/SpeedTreeImporter.ini" 326
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/DataValidation.ini" 327
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/AndroidMedia.ini" 328
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/MediaCompositing.ini" 329
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/MediaPlayerEditor.ini" 330
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/ImgMedia.ini" 331
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/LinearTimecode.ini" 332
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/WmfMedia.ini" 333
+"../../../../../../lazza_fisio/Desktop/The Game/Game/Intermediate/Config/CoalescedSourceConfigs/AvfMedia.ini" 334
+"../../../Engine/Plugins/Experimental/AppleVision/Binaries/Mac/UE4Editor.modules" 335
+"../../../Engine/Plugins/Experimental/AppleImageUtils/Binaries/Mac/UE4Editor.modules" 336
+"../../../Engine/Plugins/Experimental/BackChannel/Binaries/Mac/UE4Editor.modules" 337
+"../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Mac/UE4Editor.modules" 338
+"../../../Engine/Plugins/Experimental/GeometryCache/Binaries/Mac/UE4Editor.modules" 339
+"../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Mac/UE4Editor.modules" 340
+"../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Mac/UE4Editor.modules" 341
+"../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Mac/UE4Editor.modules" 342
+"../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Mac/UE4Editor.modules" 343
+"../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Mac/UE4Editor.modules" 344
+"../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Mac/UE4Editor.modules" 345
+"../../../Engine/Plugins/Developer/XCodeSourceCodeAccess/Binaries/Mac/UE4Editor.modules" 346
+"../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Mac/UE4Editor.modules" 347
+"../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Mac/UE4Editor.modules" 348
+"../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Mac/UE4Editor.modules" 349
+"../../../Engine/Plugins/Portal/LauncherChunkInstaller/Binaries/Mac/UE4Editor.modules" 350
+"../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Mac/UE4Editor.modules" 351
+"../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Mac/UE4Editor.modules" 352
+"../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Mac/UE4Editor.modules" 353
+"../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Mac/UE4Editor.modules" 354
+"../../../Engine/Plugins/Lumin/MagicLeap/Binaries/Mac/UE4Editor.modules" 355
+"../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Mac/UE4Editor.modules" 356
+"../../../Engine/Plugins/Lumin/MagicLeapMedia/Binaries/Mac/UE4Editor.modules" 357
+"../../../Engine/Plugins/Lumin/MagicLeapEmulator/Binaries/Mac/UE4Editor.modules" 358
+"../../../Engine/Plugins/Runtime/CableComponent/Binaries/Mac/UE4Editor.modules" 359
+"../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Mac/UE4Editor.modules" 360
+"../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Mac/UE4Editor.modules" 361
+"../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Mac/UE4Editor.modules" 362
+"../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Mac/UE4Editor.modules" 363
+"../../../Engine/Plugins/Runtime/EditableMesh/Binaries/Mac/UE4Editor.modules" 364
+"../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Mac/UE4Editor.modules" 365
+"../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Mac/UE4Editor.modules" 366
+"../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Mac/UE4Editor.modules" 367
+"../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Mac/UE4Editor.modules" 368
+"../../../Engine/Plugins/Runtime/AppleMoviePlayer/Binaries/Mac/UE4Editor.modules" 369
+"../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Mac/UE4Editor.modules" 370
+"../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Mac/UE4Editor.modules" 371
+"../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Mac/UE4Editor.modules" 372
+"../../../Engine/Plugins/AI/AISupport/Binaries/Mac/UE4Editor.modules" 373
+"../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Mac/UE4Editor.modules" 374
+"../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Mac/UE4Editor.modules" 375
+"../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Mac/UE4Editor.modules" 376
+"../../../Engine/Plugins/2D/Paper2D/Binaries/Mac/UE4Editor.modules" 377
+"../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Mac/UE4Editor.modules" 378
+"../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Mac/UE4Editor.modules" 379
+"../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Mac/UE4Editor.modules" 380
+"../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Mac/UE4Editor.modules" 381
+"../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Mac/UE4Editor.modules" 382
+"../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Mac/UE4Editor.modules" 383
+"../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Mac/UE4Editor.modules" 384
+"../../../Engine/Plugins/Editor/MeshEditor/Binaries/Mac/UE4Editor.modules" 385
+"../../../Engine/Plugins/Editor/MacGraphicsSwitching/Binaries/Mac/UE4Editor.modules" 386
+"../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Mac/UE4Editor.modules" 387
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Mac/UE4Editor.modules" 388
+"../../../Engine/Plugins/Editor/DataValidation/Binaries/Mac/UE4Editor.modules" 389
+"../../../Engine/Plugins/Media/AndroidMedia/Binaries/Mac/UE4Editor.modules" 390
+"../../../Engine/Plugins/Media/MediaCompositing/Binaries/Mac/UE4Editor.modules" 391
+"../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Mac/UE4Editor.modules" 392
+"../../../Engine/Plugins/Media/ImgMedia/Binaries/Mac/UE4Editor.modules" 393
+"../../../Engine/Plugins/Media/LinearTimecode/Binaries/Mac/UE4Editor.modules" 394
+"../../../Engine/Plugins/Media/WmfMedia/Binaries/Mac/UE4Editor.modules" 395
+"../../../Engine/Plugins/Media/AvfMedia/Binaries/Mac/UE4Editor.modules" 396

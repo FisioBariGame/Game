@@ -1,0 +1,1568 @@
+﻿Log file open, 09/25/18 09:16:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Game
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.188019
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.691s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz, GPU: Intel(R) HD Graphics 6000
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games Launcher/Unreal Engine/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.25-07.16.19:649][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.25-07.16.19:649][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.25-07.16.19:688][  0]LogHAL: Display: Platform has ~ 8 GB [8487600128 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.25-07.16.19:689][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.25-07.16.19:689][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.25-07.16.19:689][  0]LogInit: Computer: DESKTOP-O9SGR6I
+[2018.09.25-07.16.19:689][  0]LogInit: User: Fisio
+[2018.09.25-07.16.19:689][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.09.25-07.16.19:689][  0]LogInit: High frequency timer resolution =1.562498 MHz
+[2018.09.25-07.16.19:690][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.09.25-07.16.19:690][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.25-07.16.19:690][  0]LogMemory: Process Physical Memory: 100.30 MB used, 100.30 MB peak
+[2018.09.25-07.16.19:690][  0]LogMemory: Process Virtual Memory: 84.19 MB used, 84.19 MB peak
+[2018.09.25-07.16.19:690][  0]LogMemory: Physical Memory: 2158.75 MB used,  5935.65 MB free, 8094.41 MB total
+[2018.09.25-07.16.19:690][  0]LogMemory: Virtual Memory: 523.52 MB used,  5935.65 MB free, 134217728.00 MB total
+[2018.09.25-07.16.19:718][  0]LogInit: Using OS detected language (it-IT).
+[2018.09.25-07.16.19:718][  0]LogInit: Using OS detected locale (it-IT).
+[2018.09.25-07.16.19:721][  0]LogTextLocalizationManager: No specific localization for 'it-IT' exists, so the 'it' localization will be used.
+[2018.09.25-07.16.19:726][  0]LogStreaming: Display: Took  0.008s to InitEngineTextLocalization.
+[2018.09.25-07.16.19:726][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.25-07.16.19:782][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.25-07.16.19:782][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.25-07.16.20:254][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.25-07.16.20:254][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.25-07.16.20:266][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 6000' (Feature Level 11_0)
+[2018.09.25-07.16.20:266][  0]LogD3D11RHI:       128/0/4047 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.09.25-07.16.20:274][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.25-07.16.20:274][  0]LogD3D11RHI:       0/0/4047 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.25-07.16.20:274][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.25-07.16.20:284][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.25-07.16.20:284][  0]LogD3D11RHI:     GPU DeviceId: 0x1626 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.25-07.16.20:284][  0]LogWindows: EnumDisplayDevices:
+[2018.09.25-07.16.20:284][  0]LogWindows:    0. 'Intel(R) HD Graphics 6000' (P:1 D:1)
+[2018.09.25-07.16.20:285][  0]LogWindows:    1. 'Intel(R) HD Graphics 6000' (P:0 D:0)
+[2018.09.25-07.16.20:285][  0]LogWindows:    2. 'Intel(R) HD Graphics 6000' (P:0 D:0)
+[2018.09.25-07.16.20:286][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2018.09.25-07.16.20:286][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 6000
+[2018.09.25-07.16.20:286][  0]LogD3D11RHI:   Driver Version: 20.19.15.4835 (internal:20.19.15.4835, unified:20.19.15.4835)
+[2018.09.25-07.16.20:286][  0]LogD3D11RHI:      Driver Date: 10-16-2017
+[2018.09.25-07.16.20:286][  0]LogRHI: Texture pool is 1506 MB (70% of 2151 MB)
+[2018.09.25-07.16.20:292][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.25-07.16.20:305][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2018.09.25-07.16.20:307][  0]LogShaderCompilers: Guid format shader working directory is 15 characters bigger than the processId version (../../../../../../The game/Game/Intermediate/Shaders/WorkingDirectory/6124/).
+[2018.09.25-07.16.20:307][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Fisio/AppData/Local/Temp/UnrealShaderWorkingDir/1B33404541DBFE02DCCC6C97525958A4/'.
+[2018.09.25-07.16.21:027][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.25-07.16.21:063][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.25-07.16.21:098][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.25-07.16.21:128][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.25-07.16.21:158][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.25-07.16.21:188][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.25-07.16.21:220][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.25-07.16.21:252][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.25-07.16.21:262][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.25-07.16.21:538][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-07.16.21:538][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-07.16.21:538][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-07.16.21:538][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-07.16.21:538][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-07.16.21:538][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-07.16.21:539][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-07.16.21:539][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-07.16.21:539][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-07.16.21:539][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-07.16.21:539][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-07.16.21:539][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-07.16.21:539][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-07.16.21:539][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-07.16.21:539][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-07.16.21:539][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-07.16.21:539][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-07.16.21:539][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.25-07.16.21:541][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.25-07.16.21:639][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.25-07.16.21:639][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.25-07.16.21:685][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.25-07.16.21:685][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.25-07.16.21:708][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.25-07.16.21:727][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.25-07.16.21:749][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.25-07.16.21:777][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.25-07.16.21:796][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.25-07.16.21:796][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.25-07.16.21:903][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.25-07.16.21:903][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.25-07.16.21:903][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.25-07.16.23:516][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.25-07.16.23:516][  0]LogDerivedDataCache: Display: Starting with empty Boot cache
+[2018.09.25-07.16.23:516][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../The game/Game/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.25-07.16.23:516][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.25-07.16.23:516][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../The game/Game/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.25-07.16.23:516][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.25-07.16.23:539][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.25-07.16.23:552][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Fisio/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.25-07.16.23:552][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.25-07.16.23:552][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.25-07.16.23:605][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.25-07.16.23:608][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.25-07.16.23:609][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.25-07.16.23:719][  0]LogAssetRegistry: FAssetRegistry took 0.0291 seconds to start up
+[2018.09.25-07.16.24:270][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.25-07.16.24:489][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.25-07.16.24:494][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.25-07.16.24:494][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.25-07.16.24:494][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.25-07.16.24:494][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.25-07.16.24:530][  0]LogNetVersion: Game 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4261265131)
+[2018.09.25-07.16.26:258][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.777250 seconds
+[2018.09.25-07.16.26:268][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.25-07.16.26:269][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.09.25-07.16.26:269][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.25-07.16.30:040][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.25-07.16.30:172][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.25-07.16.33:469][  0]SourceControl: Source control is disabled
+[2018.09.25-07.16.33:469][  0]SourceControl: Source control is disabled
+[2018.09.25-07.16.33:751][  0]SourceControl: Source control is disabled
+[2018.09.25-07.16.33:869][  0]SourceControl: Source control is disabled
+[2018.09.25-07.16.37:534][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.25-07.16.37:943][  0]LogOcInput: OculusInput pre-init called
+[2018.09.25-07.16.38:694][  0]LogEngine: Initializing Engine...
+[2018.09.25-07.16.38:698][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.25-07.16.38:703][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.25-07.16.38:704][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.25-07.16.38:704][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.25-07.16.38:704][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.25-07.16.41:593][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.25-07.16.41:675][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.25-07.16.41:716][  0]LogInit: XAudio2 using 'Altoparlanti (Cirrus Logic CS4208 (AB 126))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.25-07.16.41:919][  0]LogInit: FAudioDevice initialized.
+[2018.09.25-07.16.41:920][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.25-07.16.42:235][  0]LogDerivedDataCache: Saved boot cache 0.32s 79MB C:/Users/Fisio/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.25-07.16.42:289][  0]LogInit: Texture streaming: Enabled
+[2018.09.25-07.16.42:517][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.25-07.16.42:609][  0]LogInit: Transaction tracking system initialized
+[2018.09.25-07.16.43:062][  0]BlueprintLog: New page: Editor Load
+[2018.09.25-07.16.45:672][  0]LocalizationService: Localization service is disabled
+[2018.09.25-07.16.51:157][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.25-07.16.51:157][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.25-07.16.51:158][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.25-07.16.51:158][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.25-07.16.51:158][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.25-07.16.51:158][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.25-07.16.51:158][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.25-07.16.51:501][  0]LogFileCache: Scanning file cache for directory 'D:/The game/Game/Content/' took 0.06s
+[2018.09.25-07.16.54:797][  0]SourceControl: Source control is disabled
+[2018.09.25-07.16.54:798][  0]Cmd: MAP LOAD FILE="../../../../../../The game/Game/Content/Mappa/Castello.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.25-07.16.54:802][  0]LightingResults: New page: Lighting Build
+[2018.09.25-07.16.54:815][  0]MapCheck: New page: Map Check
+[2018.09.25-07.16.54:815][  0]LightingResults: New page: Lighting Build
+[2018.09.25-07.16.58:780][  0]LogTexture: Display: Building textures: legno (AutoDXT, 700X588)
+[2018.09.25-07.16.58:780][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2018.09.25-07.16.58:780][  0]LogTexture: Display: Building textures: Terreno (AutoDXT, 900X900)
+[2018.09.25-07.16.58:784][  0]LogStaticMesh: Building static mesh ARMAdietto_Cube_007...
+[2018.09.25-07.16.58:800][  0]LogStaticMesh: Built static mesh [0.02s] /Game/MappaCastello/Oggetti/Castello/Elementi/Entrata/Armadietto/ARMAdietto_Cube_007.ARMAdietto_Cube_007
+[2018.09.25-07.16.58:806][  0]LogStaticMesh: Building static mesh ARMAdietto_Cube_002...
+[2018.09.25-07.16.58:847][  0]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.09.25-07.16.58:847][  0]LogStaticMesh: Built static mesh [0.04s] /Game/MappaCastello/Oggetti/Castello/Elementi/Entrata/Armadietto/ARMAdietto_Cube_002.ARMAdietto_Cube_002
+[2018.09.25-07.16.58:860][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2018.09.25-07.16.58:860][  0]LogStaticMesh: Building static mesh Armadietto_Orto_Cube_006...
+[2018.09.25-07.16.58:903][  0]LogStaticMesh: Built static mesh [0.04s] /Game/MappaCastello/Oggetti/Castello/Elementi/Orto/Armadietto/Armadietto_Orto_Cube_006.Armadietto_Orto_Cube_006
+[2018.09.25-07.16.58:919][  0]LogStaticMesh: Building static mesh Armadietto_Orto_Cube_007...
+[2018.09.25-07.16.58:955][  0]LogStaticMesh: Built static mesh [0.04s] /Game/MappaCastello/Oggetti/Castello/Elementi/Orto/Armadietto/Armadietto_Orto_Cube_007.Armadietto_Orto_Cube_007
+[2018.09.25-07.16.58:964][  0]LogStaticMesh: Building static mesh Armadietto_Orto_Cube...
+[2018.09.25-07.16.58:987][  0]LogStaticMesh: Built static mesh [0.02s] /Game/MappaCastello/Oggetti/Castello/Elementi/Orto/Armadietto/Armadietto_Orto_Cube.Armadietto_Orto_Cube
+[2018.09.25-07.16.59:018][  0]LogStaticMesh: Building static mesh Leva_Cylinder...
+[2018.09.25-07.16.59:058][  0]LogStaticMesh: Built static mesh [0.04s] /Game/MappaCastello/Oggetti/Castello/Elementi/Entrata/Leva/Leva_Cylinder.Leva_Cylinder
+[2018.09.25-07.16.59:072][  0]LogStaticMesh: Building static mesh Leva_Sphere...
+[2018.09.25-07.16.59:120][  0]LogStaticMesh: Built static mesh [0.05s] /Game/MappaCastello/Oggetti/Castello/Elementi/Entrata/Leva/Leva_Sphere.Leva_Sphere
+[2018.09.25-07.16.59:126][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.09.25-07.16.59:126][  0]LogStaticMesh: Building static mesh Mensola...
+[2018.09.25-07.16.59:137][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X128)
+[2018.09.25-07.16.59:137][  0]LogStaticMesh: Built static mesh [0.01s] /Game/MappaCastello/Oggetti/Castello/Elementi/Orto/Mensola.Mensola
+[2018.09.25-07.16.59:154][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2018.09.25-07.16.59:154][  0]LogTexture: Display: Building textures: Sasso (AutoDXT, 48X48)
+[2018.09.25-07.16.59:154][  0]LogTexture: Display: Building textures: pane (AutoDXT, 48X48)
+[2018.09.25-07.16.59:154][  0]LogStaticMesh: Building static mesh Orto_Cube_005...
+[2018.09.25-07.16.59:276][  0]LogTexture: Display: Building textures: legna (AutoDXT, 48X48)
+[2018.09.25-07.16.59:276][  0]LogTexture: Display: Building textures: ferro (AutoDXT, 48X48)
+[2018.09.25-07.16.59:276][  0]LogTexture: Display: Building textures: acqua (AutoDXT, 48X48)
+[2018.09.25-07.16.59:276][  0]LogTexture: Display: Building textures: Patata (AutoDXT, 48X48)
+[2018.09.25-07.16.59:276][  0]LogTexture: Display: Building textures: Lattuga (BGRA8, 50X50)
+[2018.09.25-07.16.59:276][  0]LogTexture: Display: Building textures: FruttoDellaVita (AutoDXT, 48X48)
+[2018.09.25-07.16.59:276][  0]LogTexture: Display: Building textures: esciInventario (AutoDXT, 80X80)
+[2018.09.25-07.16.59:276][  0]LogTexture: Display: Building textures: carota (AutoDXT, 48X48)
+[2018.09.25-07.16.59:276][  0]LogTexture: Display: Building textures: Castello (AutoDXT, 128X128)
+[2018.09.25-07.16.59:276][  0]LogStaticMesh: Built static mesh [0.12s] /Game/MappaCastello/Oggetti/Castello/Elementi/Orto/Orto/Orto_Cube_005.Orto_Cube_005
+[2018.09.25-07.16.59:282][  0]LogStaticMesh: Building static mesh Orto_Plane...
+[2018.09.25-07.16.59:306][  0]LogStaticMesh: Built static mesh [0.02s] /Game/MappaCastello/Oggetti/Castello/Elementi/Orto/Orto/Orto_Plane.Orto_Plane
+[2018.09.25-07.16.59:322][  0]LogStaticMesh: Building static mesh porta...
+[2018.09.25-07.16.59:421][  0]LogStaticMesh: Built static mesh [0.10s] /Game/MappaCastello/Oggetti/Castello/Elementi/Entrata/PortaEntrata/porta.porta
+[2018.09.25-07.16.59:428][  0]LogStaticMesh: Building static mesh StanzaGenerica...
+[2018.09.25-07.16.59:460][  0]LogStaticMesh: Built static mesh [0.03s] /Game/MappaCastello/Oggetti/Castello/Elementi/Entrata/StanzaGenerica.StanzaGenerica
+[2018.09.25-07.16.59:465][  0]LogStaticMesh: Building static mesh Terreno...
+[2018.09.25-07.16.59:473][  0]LogStaticMesh: Built static mesh [0.01s] /Game/MappaCastello/Oggetti/Castello/Elementi/Entrata/Terreno.Terreno
+[2018.09.25-07.16.59:483][  0]LogMaterial: Display: Missing cached shader map for material Legno, compiling. 
+[2018.09.25-07.17.00:642][  0]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.25-07.17.00:642][  0]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.25-07.17.00:642][  0]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.25-07.17.00:642][  0]LogTexture: Display: Building textures: terra (AutoDXT, 3200X2000)
+[2018.09.25-07.17.00:649][  0]LogMaterial: Display: Missing cached shader map for material Erba, compiling. 
+[2018.09.25-07.17.01:095][  0]LogTexture: Display: Building textures: Strada (AutoDXT, 600X400)
+[2018.09.25-07.17.01:095][  0]LogMaterial: Display: Missing cached shader map for material Castello, compiling. 
+[2018.09.25-07.17.16:631][  0]LogTexture: Display: Building textures: Mettallo-texture_Tecnico-Pos-1024x1024 (AutoDXT, 1024X1024)
+[2018.09.25-07.17.16:631][  0]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.09.25-07.17.16:631][  0]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.09.25-07.17.16:631][  0]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.09.25-07.17.16:631][  0]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.09.25-07.17.16:641][  0]LogMaterial: Display: Missing cached shader map for material Terra, compiling. 
+[2018.09.25-07.17.16:693][  0]LogMaterial: Display: Missing cached shader map for material Strada, compiling. 
+[2018.09.25-07.17.16:747][  0]LogMaterial: Display: Missing cached shader map for material Metallo, compiling. 
+[2018.09.25-07.17.16:921][  0]LogAIModule: Creating AISystem for world Castello
+[2018.09.25-07.17.17:038][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.25-07.17.17:108][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.25-07.17.17:258][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 150,639ms to complete.
+[2018.09.25-07.17.17:258][  0]LogFileHelpers: Loading map 'Castello' took 22.461
+[2018.09.25-07.17.17:628][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.25-07.17.17:654][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.25-07.17.17:683][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.25-07.17.17:705][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.25-07.17.17:798][  0]LogCollectionManager: Loaded 0 collections in 0.003010 seconds
+[2018.09.25-07.17.17:851][  0]LogFileCache: Scanning file cache for directory 'D:/The game/Game/Saved/Collections/' took 0.01s
+[2018.09.25-07.17.17:851][  0]LogFileCache: Scanning file cache for directory 'D:/The game/Game/Content/Developers/Fisio/Collections/' took 0.01s
+[2018.09.25-07.17.17:851][  0]LogFileCache: Scanning file cache for directory 'D:/The game/Game/Content/Collections/' took 0.01s
+[2018.09.25-07.17.17:851][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.09.25-07.17.17:878][  0]LogContentBrowser: Native class hierarchy populated in 0.0260 seconds. Added 2574 classes and 605 folders.
+[2018.09.25-07.17.17:892][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.09.25-07.17.19:760][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.09.25-07.17.19:821][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.09.25-07.17.19:937][  0]LogSlate: Took 0.044282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.25-07.17.19:998][  0]LogSlate: Took 0.057743 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.25-07.17.20:053][  0]LogSlate: Took 0.040154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.25-07.17.20:505][  0]LogRenderer: Reallocating scene render targets to support 904x456 Format 10 NumSamples 1 (Frame:1).
+[2018.09.25-07.17.21:800][  0]LogShaderCompilers: Display: Shaders left to compile 116
+[2018.09.25-07.17.21:923][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.09.25-07.17.21:924][  0]LogLoad: (Engine Initialization) Total time: 65.56 seconds
+[2018.09.25-07.17.21:924][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.25-07.17.21:980][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.25-07.17.22:265][  1]LogSlate: Took 0.026917 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.25-07.17.22:536][  4]LogAssetRegistry: Asset discovery search completed in 58.8393 seconds
+[2018.09.25-07.17.22:540][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.09.25-07.17.22:540][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000148 seconds (updated 0 objects)
+[2018.09.25-07.17.23:065][ 16]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.25-07.17.26:207][113]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-07.17.26:279][113]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Interfacce/Orto.Orto
+[2018.09.25-07.17.26:586][113]LogShaderCompilers: Display: Shaders left to compile 106
+[2018.09.25-07.17.27:373][113]LogShaderCompilers: Display: Shaders left to compile 96
+[2018.09.25-07.17.28:898][113]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0018 seconds. Added 116 classes and 0 folders.
+[2018.09.25-07.17.33:354][113]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.09.25-07.17.33:505][113]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Interfacce/Inventario.Inventario
+[2018.09.25-07.17.34:985][113]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.09.25-07.17.35:143][113]LogAssetEditorManager: Opening Asset editor for DataTable /Game/DataTable/OrtaggiDati.OrtaggiDati
+[2018.09.25-07.17.35:576][113]LogSlate: Took 0.035818 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.25-07.17.37:714][161]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.09.25-07.17.38:618][201]LogSlate: Window 'Inventario' being destroyed
+[2018.09.25-07.17.58:785][780]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.09.25-07.18.01:857][836]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.09.25-07.18.02:259][846]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.09.25-07.18.18:453][ 49]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.25-07.18.19:369][ 63]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.25-07.18.23:676][ 99]LogHttp: Warning: 00000287EDCC8CC0: request failed, libcurl error: 35 (SSL connect error)
+[2018.09.25-07.18.23:677][ 99]LogHttp: Warning: 00000287EDCC8CC0: libcurl info message cache 0 (  Trying 52.206.60.135...)
+[2018.09.25-07.18.23:678][ 99]LogHttp: Warning: 00000287EDCC8CC0: libcurl info message cache 1 (TCP_NODELAY set)
+[2018.09.25-07.18.23:679][ 99]LogHttp: Warning: 00000287EDCC8CC0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.206.60.135) port 443 (#0))
+[2018.09.25-07.18.23:679][ 99]LogHttp: Warning: 00000287EDCC8CC0: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.09.25-07.18.23:679][ 99]LogHttp: Warning: 00000287EDCC8CC0: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.25-07.18.23:679][ 99]LogHttp: Warning: 00000287EDCC8CC0: libcurl info message cache 5 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.09.25-07.18.23:679][ 99]LogHttp: Warning: 00000287EDCC8CC0: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.25-07.18.23:680][ 99]LogHttp: Warning: 00000287EDCC8CC0: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2018.09.25-07.18.23:680][ 99]LogHttp: Warning: 00000287EDCC8CC0: libcurl info message cache 8 (Closing connection 0)
+[2018.09.25-07.18.28:672][151]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.25-07.18.59:526][483]LogSlate: Window 'Tutorials' being destroyed
+[2018.09.25-07.20.24:324][906]LogHttp: Warning: 00000287FBFA7C40: request failed, libcurl error: 35 (SSL connect error)
+[2018.09.25-07.20.24:324][906]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.09.25-07.20.24:325][906]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 1 (  Trying 34.202.188.131...)
+[2018.09.25-07.20.24:325][906]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.09.25-07.20.24:325][906]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (34.202.188.131) port 443 (#1))
+[2018.09.25-07.20.24:325][906]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2018.09.25-07.20.24:325][906]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.25-07.20.24:325][906]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 6 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.09.25-07.20.24:325][906]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 7 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.25-07.20.24:325][906]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 8 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2018.09.25-07.20.24:325][906]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 9 (Closing connection 1)
+[2018.09.25-07.22.24:969][267]LogHttp: Warning: 00000287FBFA7C40: request failed, libcurl error: 35 (SSL connect error)
+[2018.09.25-07.22.24:969][267]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.09.25-07.22.24:969][267]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 1 (  Trying 34.233.223.249...)
+[2018.09.25-07.22.24:970][267]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.09.25-07.22.24:970][267]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (34.233.223.249) port 443 (#2))
+[2018.09.25-07.22.24:970][267]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2018.09.25-07.22.24:970][267]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.25-07.22.24:970][267]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 6 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.09.25-07.22.24:970][267]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 7 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.25-07.22.24:970][267]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 8 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2018.09.25-07.22.24:970][267]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 9 (Closing connection 2)
+[2018.09.25-07.24.25:630][628]LogHttp: Warning: 00000287FBFA7C40: request failed, libcurl error: 35 (SSL connect error)
+[2018.09.25-07.24.25:630][628]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.09.25-07.24.25:630][628]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 1 (  Trying 52.22.151.230...)
+[2018.09.25-07.24.25:630][628]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.09.25-07.24.25:630][628]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.22.151.230) port 443 (#3))
+[2018.09.25-07.24.25:631][628]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2018.09.25-07.24.25:631][628]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.25-07.24.25:631][628]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 6 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.09.25-07.24.25:631][628]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 7 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.25-07.24.25:631][628]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 8 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2018.09.25-07.24.25:631][628]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 9 (Closing connection 3)
+[2018.09.25-07.26.25:973][988]LogHttp: Warning: 00000287FBFA7C40: request failed, libcurl error: 35 (SSL connect error)
+[2018.09.25-07.26.25:973][988]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.09.25-07.26.25:973][988]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 1 (  Trying 35.168.99.131...)
+[2018.09.25-07.26.25:973][988]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.09.25-07.26.25:973][988]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (35.168.99.131) port 443 (#4))
+[2018.09.25-07.26.25:973][988]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2018.09.25-07.26.25:973][988]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.25-07.26.25:973][988]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 6 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.09.25-07.26.25:974][988]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 7 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.25-07.26.25:974][988]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 8 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2018.09.25-07.26.25:974][988]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 9 (Closing connection 4)
+[2018.09.25-07.28.26:637][349]LogHttp: Warning: 00000287FBFA7C40: request failed, libcurl error: 35 (SSL connect error)
+[2018.09.25-07.28.26:637][349]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.09.25-07.28.26:638][349]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 1 (  Trying 52.204.40.189...)
+[2018.09.25-07.28.26:638][349]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.09.25-07.28.26:638][349]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.204.40.189) port 443 (#5))
+[2018.09.25-07.28.26:639][349]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2018.09.25-07.28.26:639][349]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.25-07.28.26:639][349]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 6 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.09.25-07.28.26:639][349]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 7 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.25-07.28.26:639][349]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 8 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2018.09.25-07.28.26:639][349]LogHttp: Warning: 00000287FBFA7C40: libcurl info message cache 9 (Closing connection 5)
+[2018.09.25-07.29.55:487][764]LogPlayLevel: Launcher Device ID: WindowsNoEditor@DESKTOP-O9SGR6I
+[2018.09.25-07.29.55:514][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.25-07.29.55:514][764]LogCook: Display: Creating asset registry
+[2018.09.25-07.29.56:371][764]LogCook: Display: Discovering localized assets
+[2018.09.25-07.29.56:433][764]LogCook: Display: Cooked content cleared for platform AllDesktop
+[2018.09.25-07.29.56:508][764]LogCook: Display: Unable to read previous cook inisettings for platform AllDesktop invalidating cook
+[2018.09.25-07.29.56:679][764]LogCook: Display: Cooked content cleared for platform MacClient
+[2018.09.25-07.29.56:703][764]LogCook: Display: Unable to read previous cook inisettings for platform MacClient invalidating cook
+[2018.09.25-07.29.56:900][764]LogCook: Display: Cooked content cleared for platform MacNoEditor
+[2018.09.25-07.29.56:913][764]LogCook: Display: Unable to read previous cook inisettings for platform MacNoEditor invalidating cook
+[2018.09.25-07.29.57:012][764]LogCook: Display: Cooked content cleared for platform MacServer
+[2018.09.25-07.29.57:019][764]LogCook: Display: Unable to read previous cook inisettings for platform MacServer invalidating cook
+[2018.09.25-07.29.57:090][764]LogCook: Display: Cooked content cleared for platform Mac
+[2018.09.25-07.29.57:098][764]LogCook: Display: Unable to read previous cook inisettings for platform Mac invalidating cook
+[2018.09.25-07.29.57:168][764]LogCook: Display: Cooked content cleared for platform WindowsClient
+[2018.09.25-07.29.57:175][764]LogCook: Display: Unable to read previous cook inisettings for platform WindowsClient invalidating cook
+[2018.09.25-07.29.57:245][764]LogCook: Display: Cooked content cleared for platform WindowsNoEditor
+[2018.09.25-07.30.00:620][764]LogCook: Display: Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+[2018.09.25-07.30.00:756][764]LogCook: Display: Cooked content cleared for platform WindowsServer
+[2018.09.25-07.30.00:771][764]LogCook: Display: Unable to read previous cook inisettings for platform WindowsServer invalidating cook
+[2018.09.25-07.30.00:989][764]LogCook: Display: Cooked content cleared for platform Windows
+[2018.09.25-07.30.01:008][764]LogCook: Display: Unable to read previous cook inisettings for platform Windows invalidating cook
+[2018.09.25-07.30.01:177][764]LogCook: Display: Cooked content cleared for platform Android
+[2018.09.25-07.30.01:196][764]LogCook: Display: Unable to read previous cook inisettings for platform Android invalidating cook
+[2018.09.25-07.30.01:300][764]LogCook: Display: Cooked content cleared for platform Android_ASTC
+[2018.09.25-07.30.01:313][764]LogCook: Display: Unable to read previous cook inisettings for platform Android_ASTC invalidating cook
+[2018.09.25-07.30.01:378][764]LogCook: Display: Cooked content cleared for platform Android_ATC
+[2018.09.25-07.30.01:391][764]LogCook: Display: Unable to read previous cook inisettings for platform Android_ATC invalidating cook
+[2018.09.25-07.30.01:463][764]LogCook: Display: Cooked content cleared for platform Android_DXT
+[2018.09.25-07.30.01:470][764]LogCook: Display: Unable to read previous cook inisettings for platform Android_DXT invalidating cook
+[2018.09.25-07.30.01:535][764]LogCook: Display: Cooked content cleared for platform Android_ETC1
+[2018.09.25-07.30.01:546][764]LogCook: Display: Unable to read previous cook inisettings for platform Android_ETC1 invalidating cook
+[2018.09.25-07.30.01:631][764]LogCook: Display: Cooked content cleared for platform Android_ETC1a
+[2018.09.25-07.30.01:646][764]LogCook: Display: Unable to read previous cook inisettings for platform Android_ETC1a invalidating cook
+[2018.09.25-07.30.01:751][764]LogCook: Display: Cooked content cleared for platform Android_ETC2
+[2018.09.25-07.30.01:759][764]LogCook: Display: Unable to read previous cook inisettings for platform Android_ETC2 invalidating cook
+[2018.09.25-07.30.01:828][764]LogCook: Display: Cooked content cleared for platform Android_PVRTC
+[2018.09.25-07.30.01:836][764]LogCook: Display: Unable to read previous cook inisettings for platform Android_PVRTC invalidating cook
+[2018.09.25-07.30.01:906][764]LogCook: Display: Cooked content cleared for platform AndroidClient
+[2018.09.25-07.30.01:914][764]LogCook: Display: Unable to read previous cook inisettings for platform AndroidClient invalidating cook
+[2018.09.25-07.30.01:983][764]LogCook: Display: Cooked content cleared for platform Android_ASTCClient
+[2018.09.25-07.30.01:991][764]LogCook: Display: Unable to read previous cook inisettings for platform Android_ASTCClient invalidating cook
+[2018.09.25-07.30.02:062][764]LogCook: Display: Cooked content cleared for platform Android_ATCClient
+[2018.09.25-07.30.02:069][764]LogCook: Display: Unable to read previous cook inisettings for platform Android_ATCClient invalidating cook
+[2018.09.25-07.30.02:139][764]LogCook: Display: Cooked content cleared for platform Android_DXTClient
+[2018.09.25-07.30.02:145][764]LogCook: Display: Unable to read previous cook inisettings for platform Android_DXTClient invalidating cook
+[2018.09.25-07.30.02:215][764]LogCook: Display: Cooked content cleared for platform Android_ETC1Client
+[2018.09.25-07.30.02:222][764]LogCook: Display: Unable to read previous cook inisettings for platform Android_ETC1Client invalidating cook
+[2018.09.25-07.30.02:286][764]LogCook: Display: Cooked content cleared for platform Android_ETC1aClient
+[2018.09.25-07.30.02:293][764]LogCook: Display: Unable to read previous cook inisettings for platform Android_ETC1aClient invalidating cook
+[2018.09.25-07.30.02:359][764]LogCook: Display: Cooked content cleared for platform Android_ETC2Client
+[2018.09.25-07.30.02:365][764]LogCook: Display: Unable to read previous cook inisettings for platform Android_ETC2Client invalidating cook
+[2018.09.25-07.30.02:438][764]LogCook: Display: Cooked content cleared for platform Android_PVRTCClient
+[2018.09.25-07.30.02:444][764]LogCook: Display: Unable to read previous cook inisettings for platform Android_PVRTCClient invalidating cook
+[2018.09.25-07.30.02:520][764]LogCook: Display: Cooked content cleared for platform Android_Multi
+[2018.09.25-07.30.02:543][764]LogCook: Display: Unable to read previous cook inisettings for platform Android_Multi invalidating cook
+[2018.09.25-07.30.02:756][764]LogCook: Display: Cooked content cleared for platform Android_MultiClient
+[2018.09.25-07.30.02:770][764]LogCook: Display: Unable to read previous cook inisettings for platform Android_MultiClient invalidating cook
+[2018.09.25-07.30.02:891][764]LogCook: Display: Cooked content cleared for platform HTML5
+[2018.09.25-07.30.02:899][764]LogCook: Display: Unable to read previous cook inisettings for platform HTML5 invalidating cook
+[2018.09.25-07.30.02:962][764]LogCook: Display: Cooked content cleared for platform IOSClient
+[2018.09.25-07.30.02:968][764]LogCook: Display: Unable to read previous cook inisettings for platform IOSClient invalidating cook
+[2018.09.25-07.30.03:034][764]LogCook: Display: Cooked content cleared for platform IOS
+[2018.09.25-07.30.03:042][764]LogCook: Display: Unable to read previous cook inisettings for platform IOS invalidating cook
+[2018.09.25-07.30.03:106][764]LogCook: Display: Cooked content cleared for platform TVOSClient
+[2018.09.25-07.30.03:113][764]LogCook: Display: Unable to read previous cook inisettings for platform TVOSClient invalidating cook
+[2018.09.25-07.30.03:175][764]LogCook: Display: Cooked content cleared for platform TVOS
+[2018.09.25-07.30.03:182][764]LogCook: Display: Unable to read previous cook inisettings for platform TVOS invalidating cook
+[2018.09.25-07.30.03:248][764]LogCook: Display: Cooked content cleared for platform LinuxClient
+[2018.09.25-07.30.03:254][764]LogCook: Display: Unable to read previous cook inisettings for platform LinuxClient invalidating cook
+[2018.09.25-07.30.03:345][764]LogCook: Display: Cooked content cleared for platform LinuxNoEditor
+[2018.09.25-07.30.03:352][764]LogCook: Display: Unable to read previous cook inisettings for platform LinuxNoEditor invalidating cook
+[2018.09.25-07.30.03:423][764]LogCook: Display: Cooked content cleared for platform LinuxServer
+[2018.09.25-07.30.03:430][764]LogCook: Display: Unable to read previous cook inisettings for platform LinuxServer invalidating cook
+[2018.09.25-07.30.03:493][764]LogCook: Display: Cooked content cleared for platform Linux
+[2018.09.25-07.30.03:499][764]LogCook: Display: Unable to read previous cook inisettings for platform Linux invalidating cook
+[2018.09.25-07.30.03:566][764]LogCook: Display: Cooked content cleared for platform Lumin
+[2018.09.25-07.30.03:573][764]LogCook: Display: Unable to read previous cook inisettings for platform Lumin invalidating cook
+[2018.09.25-07.30.03:638][764]LogCook: Display: Sandbox cleanup took 7.205 seconds for platforms AllDesktop MacClient MacNoEditor MacServer Mac WindowsClient WindowsNoEditor WindowsServer Windows Android Android_ASTC Android_ATC Android_DXT Android_ETC1 Android_ETC1a Android_ETC2 Android_PVRTC AndroidClient Android_ASTCClient Android_ATCClient Android_DXTClient Android_ETC1Client Android_ETC1aClient Android_ETC2Client Android_PVRTCClient Android_Multi Android_MultiClient HTML5 IOSClient IOS TVOSClient TVOS LinuxClient LinuxNoEditor LinuxServer Linux Lumin  iterative false
+[2018.09.25-07.30.05:029][764]LogMaterial: Verifying Global Shaders for PCD3D_SM4
+[2018.09.25-07.30.06:025][765]LogCook: Display: Cooked packages 0 Packages Remain 443 Total 443
+[2018.09.25-07.30.06:190][766]LogCook: Display: Cooked packages 0 Packages Remain 443 Total 443
+[2018.09.25-07.30.06:350][767]LogCook: Display: Cooked packages 0 Packages Remain 445 Total 445
+[2018.09.25-07.30.06:431][767]LogAIModule: Creating AISystem for world Entry
+[2018.09.25-07.30.06:477][768]LogCook: Display: Cooked packages 0 Packages Remain 446 Total 446
+[2018.09.25-07.30.06:515][768]LogMaterial: Display: Missing cached shader map for material Terra, compiling. 
+[2018.09.25-07.30.06:616][769]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.25-07.30.06:616][769]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.25-07.30.06:616][769]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.25-07.30.06:616][769]LogCook: Display: Cooked packages 0 Packages Remain 446 Total 446
+[2018.09.25-07.30.06:629][769]LogContentBrowser: Native class hierarchy updated for 'BlueprintNativeCodeGen' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.09.25-07.30.06:784][770]LogCook: Display: Cooked packages 8 Packages Remain 446 Total 454
+[2018.09.25-07.30.07:037][771]LogCook: Display: Cooked packages 11 Packages Remain 445 Total 456
+[2018.09.25-07.30.07:231][772]LogCook: Display: Cooked packages 16 Packages Remain 445 Total 461
+[2018.09.25-07.30.07:724][773]LogCook: Display: Cooked packages 16 Packages Remain 452 Total 468
+[2018.09.25-07.30.07:848][774]LogCook: Display: Cooked packages 28 Packages Remain 451 Total 479
+[2018.09.25-07.30.07:999][775]LogCook: Display: Cooked packages 37 Packages Remain 450 Total 487
+[2018.09.25-07.30.08:154][776]LogCook: Display: Cooked packages 74 Packages Remain 450 Total 524
+[2018.09.25-07.30.08:295][777]LogCook: Display: Cooked packages 74 Packages Remain 450 Total 524
+[2018.09.25-07.30.08:437][778]LogCook: Display: Cooked packages 83 Packages Remain 449 Total 532
+[2018.09.25-07.30.08:453][778]LogMaterial: Display: Missing cached shader map for material Strada, compiling. 
+[2018.09.25-07.30.08:615][779]LogCook: Display: Cooked packages 86 Packages Remain 448 Total 534
+[2018.09.25-07.30.08:845][779]LogPlayLevel: Launcher Device ID: WindowsNoEditor@DESKTOP-O9SGR6I
+[2018.09.25-07.30.08:875][779]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.25-07.30.10:652][779]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.25-07.30.10:652][779]LogCook: Display: Discovering localized assets
+[2018.09.25-07.30.18:315][779]LogCook: Display: Iterative cooking summary for AllDesktop, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2018.09.25-07.30.18:316][779]LogCook: Display: Iterative cooking summary for MacClient, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2018.09.25-07.30.18:317][779]LogCook: Display: Iterative cooking summary for MacNoEditor, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2018.09.25-07.30.18:318][779]LogCook: Display: Iterative cooking summary for MacServer, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2018.09.25-07.30.18:319][779]LogCook: Display: Iterative cooking summary for Mac, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2018.09.25-07.30.18:320][779]LogCook: Display: Iterative cooking summary for WindowsClient, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2018.09.25-07.30.18:330][779]LogCook: Display: Iterative cooking summary for WindowsNoEditor, 
+Considered: 90, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 90
+[2018.09.25-07.30.18:378][779]LogCook: Display: Iterative cooking summary for WindowsServer, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2018.09.25-07.30.18:380][779]LogCook: Display: Iterative cooking summary for Windows, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2018.09.25-07.30.18:381][779]LogCook: Display: Iterative cooking summary for Android, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2018.09.25-07.30.18:382][779]LogCook: Display: Iterative cooking summary for Android_ASTC, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2018.09.25-07.30.18:383][779]LogCook: Display: Iterative cooking summary for Android_ATC, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2018.09.25-07.30.18:384][779]LogCook: Display: Iterative cooking summary for Android_DXT, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2018.09.25-07.30.18:385][779]LogCook: Display: Iterative cooking summary for Android_ETC1, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2018.09.25-07.30.18:386][779]LogCook: Display: Iterative cooking summary for Android_ETC1a, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2018.09.25-07.30.18:387][779]LogCook: Display: Iterative cooking summary for Android_ETC2, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2018.09.25-07.30.18:389][779]LogCook: Display: Iterative cooking summary for Android_PVRTC, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2018.09.25-07.30.18:390][779]LogCook: Display: Iterative cooking summary for AndroidClient, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2018.09.25-07.30.18:391][779]LogCook: Display: Iterative cooking summary for Android_ASTCClient, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2018.09.25-07.30.18:392][779]LogCook: Display: Iterative cooking summary for Android_ATCClient, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2018.09.25-07.30.18:393][779]LogCook: Display: Iterative cooking summary for Android_DXTClient, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2018.09.25-07.30.18:394][779]LogCook: Display: Iterative cooking summary for Android_ETC1Client, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2018.09.25-07.30.18:395][779]LogCook: Display: Iterative cooking summary for Android_ETC1aClient, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2018.09.25-07.30.18:396][779]LogCook: Display: Iterative cooking summary for Android_ETC2Client, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2018.09.25-07.30.18:397][779]LogCook: Display: Iterative cooking summary for Android_PVRTCClient, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2018.09.25-07.30.18:398][779]LogCook: Display: Iterative cooking summary for Android_Multi, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2018.09.25-07.30.18:399][779]LogCook: Display: Iterative cooking summary for Android_MultiClient, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2018.09.25-07.30.18:400][779]LogCook: Display: Iterative cooking summary for HTML5, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2018.09.25-07.30.18:402][779]LogCook: Display: Iterative cooking summary for IOSClient, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2018.09.25-07.30.18:403][779]LogCook: Display: Iterative cooking summary for IOS, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2018.09.25-07.30.18:404][779]LogCook: Display: Iterative cooking summary for TVOSClient, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2018.09.25-07.30.18:405][779]LogCook: Display: Iterative cooking summary for TVOS, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2018.09.25-07.30.18:406][779]LogCook: Display: Iterative cooking summary for LinuxClient, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2018.09.25-07.30.18:408][779]LogCook: Display: Iterative cooking summary for LinuxNoEditor, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2018.09.25-07.30.18:409][779]LogCook: Display: Iterative cooking summary for LinuxServer, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2018.09.25-07.30.18:410][779]LogCook: Display: Iterative cooking summary for Linux, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2018.09.25-07.30.18:411][779]LogCook: Display: Iterative cooking summary for Lumin, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2018.09.25-07.30.18:412][779]LogCook: Display: Sandbox cleanup took 7.599 seconds for platforms AllDesktop MacClient MacNoEditor MacServer Mac WindowsClient WindowsNoEditor WindowsServer Windows Android Android_ASTC Android_ATC Android_DXT Android_ETC1 Android_ETC1a Android_ETC2 Android_PVRTC AndroidClient Android_ASTCClient Android_ATCClient Android_DXTClient Android_ETC1Client Android_ETC1aClient Android_ETC2Client Android_PVRTCClient Android_Multi Android_MultiClient HTML5 IOSClient IOS TVOSClient TVOS LinuxClient LinuxNoEditor LinuxServer Linux Lumin  iterative true
+[2018.09.25-07.30.20:754][779]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.25-07.30.20:754][779]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.25-07.30.21:754][780]LogCook: Display: Cooked packages 0 Packages Remain 456 Total 456
+[2018.09.25-07.30.21:936][781]LogCook: Display: Cooked packages 8 Packages Remain 455 Total 463
+[2018.09.25-07.30.21:971][781]LogMaterial: Display: Missing cached shader map for material Castello, compiling. 
+[2018.09.25-07.30.22:183][782]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.25-07.30.22:183][782]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.25-07.30.22:187][782]LogCook: Display: Cooked packages 8 Packages Remain 455 Total 463
+[2018.09.25-07.30.22:414][783]LogCook: Display: Cooked packages 11 Packages Remain 454 Total 465
+[2018.09.25-07.30.22:546][784]LogCook: Display: Cooked packages 16 Packages Remain 453 Total 469
+[2018.09.25-07.30.22:592][784]LogMaterial: Display: Missing cached shader map for material Metallo, compiling. 
+[2018.09.25-07.30.22:699][785]LogCook: Display: Cooked packages 18 Packages Remain 452 Total 470
+[2018.09.25-07.30.22:843][786]LogCook: Display: Cooked packages 32 Packages Remain 451 Total 483
+[2018.09.25-07.30.22:970][787]LogCook: Display: Cooked packages 42 Packages Remain 450 Total 492
+[2018.09.25-07.30.23:111][788]LogCook: Display: Cooked packages 77 Packages Remain 449 Total 526
+[2018.09.25-07.30.23:255][789]LogCook: Display: Cooked packages 87 Packages Remain 449 Total 536
+[2018.09.25-07.30.23:255][789]LogCook: Display: Cooked packages 87 Packages Remain 448 Total 535
+[2018.09.25-07.30.23:410][790]LogCook: Display: Cooked packages 105 Packages Remain 447 Total 552
+[2018.09.25-07.30.23:569][791]LogCook: Display: Cooked packages 112 Packages Remain 446 Total 558
+[2018.09.25-07.30.23:733][792]LogCook: Display: Cooked packages 117 Packages Remain 445 Total 562
+[2018.09.25-07.30.23:901][793]LogCook: Display: Cooked packages 121 Packages Remain 445 Total 566
+[2018.09.25-07.30.23:902][793]LogCook: Display: Cooked packages 121 Packages Remain 444 Total 565
+[2018.09.25-07.30.24:044][794]LogCook: Display: Cooked packages 125 Packages Remain 443 Total 568
+[2018.09.25-07.30.24:187][795]LogCook: Display: Cooked packages 137 Packages Remain 442 Total 579
+[2018.09.25-07.30.24:375][796]LogCook: Display: Cooked packages 142 Packages Remain 441 Total 583
+[2018.09.25-07.30.24:538][797]LogCook: Display: Cooked packages 149 Packages Remain 440 Total 589
+[2018.09.25-07.30.24:683][798]LogCook: Display: Cooked packages 154 Packages Remain 440 Total 594
+[2018.09.25-07.30.24:683][798]LogCook: Display: Cooked packages 154 Packages Remain 439 Total 593
+[2018.09.25-07.30.24:817][799]LogCook: Display: Cooked packages 168 Packages Remain 438 Total 606
+[2018.09.25-07.30.24:943][800]LogCook: Display: Cooked packages 179 Packages Remain 437 Total 616
+[2018.09.25-07.30.25:088][801]LogCook: Display: Cooked packages 182 Packages Remain 437 Total 619
+[2018.09.25-07.30.26:758][802]LogCook: Display: Cooked packages 182 Packages Remain 437 Total 619
+[2018.09.25-07.30.26:909][803]LogCook: Display: Cooked packages 185 Packages Remain 436 Total 621
+[2018.09.25-07.30.27:056][804]LogHttp: Warning: 00000287AAAD1300: request failed, libcurl error: 35 (SSL connect error)
+[2018.09.25-07.30.27:056][804]LogHttp: Warning: 00000287AAAD1300: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.09.25-07.30.27:056][804]LogHttp: Warning: 00000287AAAD1300: libcurl info message cache 1 (  Trying 52.204.64.15...)
+[2018.09.25-07.30.27:056][804]LogHttp: Warning: 00000287AAAD1300: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.09.25-07.30.27:056][804]LogHttp: Warning: 00000287AAAD1300: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.204.64.15) port 443 (#6))
+[2018.09.25-07.30.27:056][804]LogHttp: Warning: 00000287AAAD1300: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2018.09.25-07.30.27:057][804]LogHttp: Warning: 00000287AAAD1300: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.25-07.30.27:057][804]LogHttp: Warning: 00000287AAAD1300: libcurl info message cache 6 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.09.25-07.30.27:057][804]LogHttp: Warning: 00000287AAAD1300: libcurl info message cache 7 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.25-07.30.27:057][804]LogHttp: Warning: 00000287AAAD1300: libcurl info message cache 8 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2018.09.25-07.30.27:057][804]LogHttp: Warning: 00000287AAAD1300: libcurl info message cache 9 (Closing connection 6)
+[2018.09.25-07.30.27:058][804]LogCook: Display: Cooked packages 188 Packages Remain 435 Total 623
+[2018.09.25-07.30.27:215][805]LogCook: Display: Cooked packages 193 Packages Remain 435 Total 628
+[2018.09.25-07.30.27:348][806]LogCook: Display: Cooked packages 195 Packages Remain 434 Total 629
+[2018.09.25-07.30.27:497][807]LogPlayLevel: Completed Launch On Stage: Cooking in the editor, Time: 4.709017
+[2018.09.25-07.30.27:499][807]LogCook: Display: Cooked packages 198 Packages Remain 433 Total 631
+[2018.09.25-07.30.27:555][809]LogPlayLevel: Completed Launch On Stage: Cooking in the editor, Time: 20.635400
+[2018.09.25-07.30.29:842][881]LogPlayLevel: Running AutomationTool...
+[2018.09.25-07.30.39:480][175]LogPlayLevel: Parsing command line: -ScriptsForProject="D:/The game/Game/Game.uproject" BuildCookRun -project="D:/The game/Game/Game.uproject" -noP4 -clientconfig=Development -serverconfig=Development -nocompile -nocompileeditor -installed -ue4exe=UE4Editor-Cmd.exe -utf8output -platform=Win64 -targetplatform=Win64 -ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled -build -map=/Game/Mappa/Castello -skipcook -CookInEditor -iterativecooking -compressed -iterativedeploy -stage -deploy -cmdline="/Game/Mappa/Castello -Messaging" -device=WindowsNoEditor@DESKTOP-O9SGR6I -addcmdline="-SessionId=E3A96101431F04B31582E8921AA1C7B6 -SessionOwner='Fisio' -SessionName='Launch On Device'  " -run
+[2018.09.25-07.30.47:625][410]LogPlayLevel: Setting up ProjectParams for D:\The game\Game\Game.uproject
+[2018.09.25-07.30.48:015][421]LogPlayLevel: ********** BUILD COMMAND STARTED **********
+[2018.09.25-07.30.48:236][427]LogPlayLevel: Completed Launch On Stage: Build Task, Time: 20.168581
+[2018.09.25-07.30.52:882][554]LogPlayLevel: Running: D:\Epic Games Launcher\Unreal Engine\UE_4.20\Engine\Binaries\DotNET\UnrealBuildTool.exe Game Win64 Development -Project="D:\The game\Game\Game.uproject"  "D:\The game\Game\Game.uproject" -NoUBTMakefiles  -remoteini="D:\The game\Game" -skipdeploy -ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled -noxge -generatemanifest -NoHotReload -log="C:\Users\Fisio\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+Epic+Games+Launcher+Unreal+Engine+UE_4.20\UBT-Game-Win64-Development.txt"
+[2018.09.25-07.31.51:574][201]LogPlayLevel:   Using 'git status' to determine working set for adaptive non-unity build.
+[2018.09.25-07.31.52:215][219]LogPlayLevel:   WARNING: Visual Studio 2017 is installed, but is missing the C++ toolchain. Please verify that the "VC++ 2017 toolset" component is selected in the Visual Studio 2017 installation options.
+[2018.09.25-07.31.52:216][219]LogPlayLevel:   ERROR: Visual Studio 2015 must be installed in order to build this target.
+[2018.09.25-07.31.52:664][231]LogPlayLevel:          (see C:\Users\Fisio\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+Epic+Games+Launcher+Unreal+Engine+UE_4.20\UBT-Game-Win64-Development.txt for full exception trace)
+[2018.09.25-07.31.52:697][232]LogPlayLevel: Took 64,6475893s to run UnrealBuildTool.exe, ExitCode=5
+[2018.09.25-07.31.52:697][232]LogPlayLevel: ERROR: UnrealBuildTool failed. See log for more details. (C:\Users\Fisio\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+Epic+Games+Launcher+Unreal+Engine+UE_4.20\UBT-Game-Win64-Development.txt)
+[2018.09.25-07.31.52:993][240]LogPlayLevel:        (see C:\Users\Fisio\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+Epic+Games+Launcher+Unreal+Engine+UE_4.20\Log.txt for full exception trace)
+[2018.09.25-07.31.53:216][246]LogPlayLevel: AutomationTool exiting with ExitCode=5 (5)
+[2018.09.25-07.31.53:329][249]LogPlayLevel: Completed Launch On Stage: Build Task, Time: 64.601498
+[2018.09.25-07.31.53:329][249]LogPlayLevel: BUILD FAILED
+
+[2018.09.25-07.31.53:329][249]PackagingResults: Error: Launch failed! Unknown Error
+[2018.09.25-07.31.57:015][347]LogSlate: Took 0.095245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.09.25-07.32.19:700][923]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.25-07.32.27:428][ 96]LogHttp: Warning: 00000287A9CFB240: request failed, libcurl error: 35 (SSL connect error)
+[2018.09.25-07.32.27:429][ 96]LogHttp: Warning: 00000287A9CFB240: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.09.25-07.32.27:429][ 96]LogHttp: Warning: 00000287A9CFB240: libcurl info message cache 1 (  Trying 35.173.61.154...)
+[2018.09.25-07.32.27:429][ 96]LogHttp: Warning: 00000287A9CFB240: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.09.25-07.32.27:430][ 96]LogHttp: Warning: 00000287A9CFB240: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (35.173.61.154) port 443 (#7))
+[2018.09.25-07.32.27:430][ 96]LogHttp: Warning: 00000287A9CFB240: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2018.09.25-07.32.27:431][ 96]LogHttp: Warning: 00000287A9CFB240: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.25-07.32.27:433][ 96]LogHttp: Warning: 00000287A9CFB240: libcurl info message cache 6 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.09.25-07.32.27:434][ 96]LogHttp: Warning: 00000287A9CFB240: libcurl info message cache 7 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.25-07.32.27:434][ 96]LogHttp: Warning: 00000287A9CFB240: libcurl info message cache 8 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2018.09.25-07.32.27:435][ 96]LogHttp: Warning: 00000287A9CFB240: libcurl info message cache 9 (Closing connection 7)
+[2018.09.25-07.32.28:560][111]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.25-07.32.28:919][117]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.25-07.32.55:808][504]LogSlate: Window 'Output Log' being destroyed
+[2018.09.25-07.32.55:826][504]LogSlate: Window 'Output Log' being destroyed
+[2018.09.25-07.34.28:073][  6]LogHttp: Warning: 00000287A9CFA5C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.25-07.34.28:073][  6]LogHttp: Warning: 00000287A9CFA5C0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.09.25-07.34.28:073][  6]LogHttp: Warning: 00000287A9CFA5C0: libcurl info message cache 1 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.25-07.34.28:073][  6]LogHttp: Warning: 00000287A9CFA5C0: libcurl info message cache 2 (Closing connection 8)
+[2018.09.25-07.35.03:578][134]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.25-07.35.04:012][134]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Mappa/Castello.Castello:PersistentLevel' has LevelScriptBlueprint '/Game/Mappa/Castello.Castello:PersistentLevel.Castello' with GeneratedClass '/Game/Mappa/Castello.Castello_C' with ClassGeneratedBy '/Game/Mappa/Castello.Castello:PersistentLevel.Castello'
+[2018.09.25-07.35.04:013][134]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.25-07.35.04:031][134]PIE: New page: PIE session: Castello (25/set/2018 11:35:04)
+[2018.09.25-07.35.04:031][134]LogPlayLevel: Creating play world package: /Game/Mappa/UEDPIE_0_Castello
+[2018.09.25-07.35.04:062][134]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031100s)
+[2018.09.25-07.35.04:064][134]LogAIModule: Creating AISystem for world Castello
+[2018.09.25-07.35.04:066][134]LogPlayLevel: PIE: World Init took: (0.002732s)
+[2018.09.25-07.35.04:066][134]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mappa/Castello.Castello to /Game/Mappa/UEDPIE_0_Castello.Castello (0.034357s)
+[2018.09.25-07.35.04:163][134]LogInit: XAudio2 using 'Altoparlanti (Cirrus Logic CS4208 (AB 126))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.25-07.35.04:204][134]LogInit: FAudioDevice initialized.
+[2018.09.25-07.35.04:256][134]LogLoad: Game class is 'ProtagonistaGameMode_C'
+[2018.09.25-07.35.04:259][134]LogWorld: Bringing World /Game/Mappa/UEDPIE_0_Castello.Castello up for play (max tick rate 60) at 2018.09.25-09.35.04
+[2018.09.25-07.35.04:294][134]LogWorld: Bringing up level for play took: 0.036785
+[2018.09.25-07.35.04:312][134]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 10 classes and 0 folders.
+[2018.09.25-07.35.04:313][134]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.25-07.35.04:313][134]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.25-07.35.04:313][134]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.09.25-07.35.04:326][134]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.09.25-07.35.04:327][134]PIE: Play in editor start time for /Game/Mappa/UEDPIE_0_Castello -0,655
+[2018.09.25-07.35.04:327][134]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Mappa/Castello.Castello:PersistentLevel' has LevelScriptBlueprint '/Game/Mappa/Castello.Castello:PersistentLevel.Castello' with GeneratedClass '/Game/Mappa/Castello.Castello_C' with ClassGeneratedBy '/Game/Mappa/Castello.Castello:PersistentLevel.Castello'
+[2018.09.25-07.35.07:897][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.25-07.35.13:090][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-07.35.19:242][710]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Mappa/Castello.Castello:PersistentLevel' has LevelScriptBlueprint '/Game/Mappa/Castello.Castello:PersistentLevel.Castello' with GeneratedClass '/Game/Mappa/Castello.Castello_C' with ClassGeneratedBy '/Game/Mappa/Castello.Castello:PersistentLevel.Castello'
+[2018.09.25-07.35.19:245][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.25-07.35.19:297][710]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.25-07.35.19:298][710]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Mappa/Castello.Castello:PersistentLevel' has LevelScriptBlueprint '/Game/Mappa/Castello.Castello:PersistentLevel.Castello' with GeneratedClass '/Game/Mappa/Castello.Castello_C' with ClassGeneratedBy '/Game/Mappa/Castello.Castello:PersistentLevel.Castello'
+[2018.09.25-07.35.19:388][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.25-07.35.19:415][711]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.09.25-07.35.20:363][741]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.25-07.35.20:434][741]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Mappa/Castello.Castello:PersistentLevel' has LevelScriptBlueprint '/Game/Mappa/Castello.Castello:PersistentLevel.Castello' with GeneratedClass '/Game/Mappa/Castello.Castello_C' with ClassGeneratedBy '/Game/Mappa/Castello.Castello:PersistentLevel.Castello'
+[2018.09.25-07.35.20:434][741]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.25-07.35.20:435][741]PIE: New page: PIE session: Castello (25/set/2018 11:35:20)
+[2018.09.25-07.35.20:435][741]LogPlayLevel: Creating play world package: /Game/Mappa/UEDPIE_0_Castello
+[2018.09.25-07.35.20:450][741]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014842s)
+[2018.09.25-07.35.20:451][741]LogAIModule: Creating AISystem for world Castello
+[2018.09.25-07.35.20:451][741]LogPlayLevel: PIE: World Init took: (0.001392s)
+[2018.09.25-07.35.20:451][741]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mappa/Castello.Castello to /Game/Mappa/UEDPIE_0_Castello.Castello (0.016490s)
+[2018.09.25-07.35.20:516][741]LogInit: XAudio2 using 'Altoparlanti (Cirrus Logic CS4208 (AB 126))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.25-07.35.20:533][741]LogInit: FAudioDevice initialized.
+[2018.09.25-07.35.20:567][741]LogLoad: Game class is 'ProtagonistaGameMode_C'
+[2018.09.25-07.35.20:569][741]LogWorld: Bringing World /Game/Mappa/UEDPIE_0_Castello.Castello up for play (max tick rate 60) at 2018.09.25-09.35.20
+[2018.09.25-07.35.20:571][741]LogWorld: Bringing up level for play took: 0.002539
+[2018.09.25-07.35.20:584][741]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.25-07.35.20:584][741]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.25-07.35.20:584][741]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.09.25-07.35.20:598][741]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.09.25-07.35.20:598][741]PIE: Play in editor start time for /Game/Mappa/UEDPIE_0_Castello -0,384
+[2018.09.25-07.35.20:598][741]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Mappa/Castello.Castello:PersistentLevel' has LevelScriptBlueprint '/Game/Mappa/Castello.Castello:PersistentLevel.Castello' with GeneratedClass '/Game/Mappa/Castello.Castello_C' with ClassGeneratedBy '/Game/Mappa/Castello.Castello:PersistentLevel.Castello'
+[2018.09.25-07.35.28:658][ 49]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Mappa/Castello.Castello:PersistentLevel' has LevelScriptBlueprint '/Game/Mappa/Castello.Castello:PersistentLevel.Castello' with GeneratedClass '/Game/Mappa/Castello.Castello_C' with ClassGeneratedBy '/Game/Mappa/Castello.Castello:PersistentLevel.Castello'
+[2018.09.25-07.35.28:659][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.25-07.35.28:716][ 49]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.25-07.35.28:717][ 49]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Mappa/Castello.Castello:PersistentLevel' has LevelScriptBlueprint '/Game/Mappa/Castello.Castello:PersistentLevel.Castello' with GeneratedClass '/Game/Mappa/Castello.Castello_C' with ClassGeneratedBy '/Game/Mappa/Castello.Castello:PersistentLevel.Castello'
+[2018.09.25-07.35.28:784][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.25-07.35.28:810][ 50]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.09.25-07.35.29:410][ 68]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StanzaGenerica2)
+[2018.09.25-07.35.30:823][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-07.35.30:953][ 98]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.25-07.35.31:009][ 98]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Mappa/Castello.Castello:PersistentLevel' has LevelScriptBlueprint '/Game/Mappa/Castello.Castello:PersistentLevel.Castello' with GeneratedClass '/Game/Mappa/Castello.Castello_C' with ClassGeneratedBy '/Game/Mappa/Castello.Castello:PersistentLevel.Castello'
+[2018.09.25-07.35.31:010][ 98]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.25-07.35.31:010][ 98]PIE: New page: PIE session: Castello (25/set/2018 11:35:31)
+[2018.09.25-07.35.31:010][ 98]LogPlayLevel: Creating play world package: /Game/Mappa/UEDPIE_0_Castello
+[2018.09.25-07.35.31:025][ 98]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015105s)
+[2018.09.25-07.35.31:026][ 98]LogAIModule: Creating AISystem for world Castello
+[2018.09.25-07.35.31:027][ 98]LogPlayLevel: PIE: World Init took: (0.001332s)
+[2018.09.25-07.35.31:027][ 98]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mappa/Castello.Castello to /Game/Mappa/UEDPIE_0_Castello.Castello (0.016708s)
+[2018.09.25-07.35.31:092][ 98]LogInit: XAudio2 using 'Altoparlanti (Cirrus Logic CS4208 (AB 126))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.25-07.35.31:109][ 98]LogInit: FAudioDevice initialized.
+[2018.09.25-07.35.31:157][ 98]LogLoad: Game class is 'ProtagonistaGameMode_C'
+[2018.09.25-07.35.31:163][ 98]LogWorld: Bringing World /Game/Mappa/UEDPIE_0_Castello.Castello up for play (max tick rate 60) at 2018.09.25-09.35.31
+[2018.09.25-07.35.31:165][ 98]LogWorld: Bringing up level for play took: 0.005359
+[2018.09.25-07.35.31:180][ 98]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.25-07.35.31:180][ 98]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.25-07.35.31:180][ 98]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.09.25-07.35.31:208][ 98]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.09.25-07.35.31:208][ 98]PIE: Play in editor start time for /Game/Mappa/UEDPIE_0_Castello 0,226
+[2018.09.25-07.35.31:209][ 98]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Mappa/Castello.Castello:PersistentLevel' has LevelScriptBlueprint '/Game/Mappa/Castello.Castello:PersistentLevel.Castello' with GeneratedClass '/Game/Mappa/Castello.Castello_C' with ClassGeneratedBy '/Game/Mappa/Castello.Castello:PersistentLevel.Castello'
+[2018.09.25-07.35.33:282][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.25-07.35.42:554][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-07.35.44:460][590]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Mappa/Castello.Castello:PersistentLevel' has LevelScriptBlueprint '/Game/Mappa/Castello.Castello:PersistentLevel.Castello' with GeneratedClass '/Game/Mappa/Castello.Castello_C' with ClassGeneratedBy '/Game/Mappa/Castello.Castello:PersistentLevel.Castello'
+[2018.09.25-07.35.44:462][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.25-07.35.44:517][590]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.25-07.35.44:517][590]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Mappa/Castello.Castello:PersistentLevel' has LevelScriptBlueprint '/Game/Mappa/Castello.Castello:PersistentLevel.Castello' with GeneratedClass '/Game/Mappa/Castello.Castello_C' with ClassGeneratedBy '/Game/Mappa/Castello.Castello:PersistentLevel.Castello'
+[2018.09.25-07.35.44:594][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.25-07.35.44:622][591]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.09.25-07.36.07:685][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StanzaGenerica3)
+[2018.09.25-07.36.14:249][585]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-07.36.28:384][350]LogHttp: Warning: 00000287EB756340: request failed, libcurl error: 35 (SSL connect error)
+[2018.09.25-07.36.28:384][350]LogHttp: Warning: 00000287EB756340: libcurl info message cache 0 (  Trying 52.22.214.7...)
+[2018.09.25-07.36.28:385][350]LogHttp: Warning: 00000287EB756340: libcurl info message cache 1 (TCP_NODELAY set)
+[2018.09.25-07.36.28:385][350]LogHttp: Warning: 00000287EB756340: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.22.214.7) port 443 (#9))
+[2018.09.25-07.36.28:385][350]LogHttp: Warning: 00000287EB756340: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.09.25-07.36.28:385][350]LogHttp: Warning: 00000287EB756340: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.25-07.36.28:385][350]LogHttp: Warning: 00000287EB756340: libcurl info message cache 5 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.09.25-07.36.28:385][350]LogHttp: Warning: 00000287EB756340: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.25-07.36.28:385][350]LogHttp: Warning: 00000287EB756340: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2018.09.25-07.36.28:385][350]LogHttp: Warning: 00000287EB756340: libcurl info message cache 8 (Closing connection 9)
+[2018.09.25-07.36.48:519][535]LogSlate: Took 0.182773 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.09.25-07.36.54:044][837]BlueprintLog: New page: Compile Orto
+[2018.09.25-07.38.28:931][164]LogHttp: Warning: 00000287BAE3AE80: request failed, libcurl error: 35 (SSL connect error)
+[2018.09.25-07.38.28:931][164]LogHttp: Warning: 00000287BAE3AE80: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.09.25-07.38.28:931][164]LogHttp: Warning: 00000287BAE3AE80: libcurl info message cache 1 (  Trying 34.231.0.173...)
+[2018.09.25-07.38.28:931][164]LogHttp: Warning: 00000287BAE3AE80: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.09.25-07.38.28:931][164]LogHttp: Warning: 00000287BAE3AE80: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (34.231.0.173) port 443 (#10))
+[2018.09.25-07.38.28:932][164]LogHttp: Warning: 00000287BAE3AE80: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2018.09.25-07.38.28:932][164]LogHttp: Warning: 00000287BAE3AE80: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.25-07.38.28:932][164]LogHttp: Warning: 00000287BAE3AE80: libcurl info message cache 6 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.09.25-07.38.28:932][164]LogHttp: Warning: 00000287BAE3AE80: libcurl info message cache 7 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.25-07.38.28:932][164]LogHttp: Warning: 00000287BAE3AE80: libcurl info message cache 8 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2018.09.25-07.38.28:932][164]LogHttp: Warning: 00000287BAE3AE80: libcurl info message cache 9 (Closing connection 10)
+[2018.09.25-07.38.49:386][547]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../The game/Immagini/remove.png)
+[2018.09.25-07.38.49:396][547]LogTexture: Display: Building textures: remove (BGRA8, 225X225)
+[2018.09.25-07.38.58:455][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interfacce/Immagini/remove" FILE="../../../../../../The game/Game/Content/Interfacce/Immagini/remove.uasset" SILENT=true
+[2018.09.25-07.38.58:497][817]LogSavePackage: Moving '../../../../../../The game/Game/Saved/removeAA0B3518401B8F13752CCF98F5BEA54F.tmp' to '../../../../../../The game/Game/Content/Interfacce/Immagini/remove.uasset'
+[2018.09.25-07.39.07:342][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interfacce/Orto" FILE="../../../../../../The game/Game/Content/Interfacce/Orto.uasset" SILENT=true
+[2018.09.25-07.39.08:047][254]LogSavePackage: Moving '../../../../../../The game/Game/Saved/OrtoE19BDEB442B6B2FB69F796B133E44377.tmp' to '../../../../../../The game/Game/Content/Interfacce/Orto.uasset'
+[2018.09.25-07.40.14:252][ 94]BlueprintLog: New page: Compile Orto
+[2018.09.25-07.40.29:182][895]LogHttp: Warning: 00000287EB0CDBC0: request failed, libcurl error: 35 (SSL connect error)
+[2018.09.25-07.40.29:182][895]LogHttp: Warning: 00000287EB0CDBC0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.09.25-07.40.29:182][895]LogHttp: Warning: 00000287EB0CDBC0: libcurl info message cache 1 (  Trying 52.21.145.104...)
+[2018.09.25-07.40.29:182][895]LogHttp: Warning: 00000287EB0CDBC0: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.09.25-07.40.29:182][895]LogHttp: Warning: 00000287EB0CDBC0: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.21.145.104) port 443 (#11))
+[2018.09.25-07.40.29:182][895]LogHttp: Warning: 00000287EB0CDBC0: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2018.09.25-07.40.29:182][895]LogHttp: Warning: 00000287EB0CDBC0: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.25-07.40.29:182][895]LogHttp: Warning: 00000287EB0CDBC0: libcurl info message cache 6 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.09.25-07.40.29:182][895]LogHttp: Warning: 00000287EB0CDBC0: libcurl info message cache 7 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.25-07.40.29:182][895]LogHttp: Warning: 00000287EB0CDBC0: libcurl info message cache 8 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2018.09.25-07.40.29:182][895]LogHttp: Warning: 00000287EB0CDBC0: libcurl info message cache 9 (Closing connection 11)
+[2018.09.25-07.40.46:142][866]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Mappa/Castello' took 0.095
+[2018.09.25-07.40.46:146][866]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Interfacce/Orto] ([1] browsable assets)...
+[2018.09.25-07.40.46:146][866]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interfacce/Orto]
+[2018.09.25-07.40.46:146][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interfacce/Orto" FILE="../../../../../../The game/Game/Saved/Autosaves/Game/Interfacce/Orto_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.09.25-07.40.46:973][866]LogSavePackage: Moving '../../../../../../The game/Game/Saved/Orto_Auto1BFBE002841FCF6D91629CD8E50EEEDA2.tmp' to '../../../../../../The game/Game/Saved/Autosaves/Game/Interfacce/Orto_Auto1.uasset'
+[2018.09.25-07.40.46:976][866]LogFileHelpers: Auto-saving content packages took 0.833
+[2018.09.25-07.41.11:772][273]BlueprintLog: New page: Compile Orto
+[2018.09.25-07.41.31:494][295]BlueprintLog: New page: Compile Orto
+[2018.09.25-07.42.29:435][640]LogHttp: Warning: 00000287B91A34C0: request failed, libcurl error: 35 (SSL connect error)
+[2018.09.25-07.42.29:435][640]LogHttp: Warning: 00000287B91A34C0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.09.25-07.42.29:435][640]LogHttp: Warning: 00000287B91A34C0: libcurl info message cache 1 (  Trying 34.204.55.248...)
+[2018.09.25-07.42.29:435][640]LogHttp: Warning: 00000287B91A34C0: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.09.25-07.42.29:435][640]LogHttp: Warning: 00000287B91A34C0: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (34.204.55.248) port 443 (#12))
+[2018.09.25-07.42.29:435][640]LogHttp: Warning: 00000287B91A34C0: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2018.09.25-07.42.29:436][640]LogHttp: Warning: 00000287B91A34C0: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.25-07.42.29:436][640]LogHttp: Warning: 00000287B91A34C0: libcurl info message cache 6 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.09.25-07.42.29:436][640]LogHttp: Warning: 00000287B91A34C0: libcurl info message cache 7 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.25-07.42.29:436][640]LogHttp: Warning: 00000287B91A34C0: libcurl info message cache 8 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2018.09.25-07.42.29:436][640]LogHttp: Warning: 00000287B91A34C0: libcurl info message cache 9 (Closing connection 12)
+[2018.09.25-07.42.53:207][902]BlueprintLog: New page: Compile Orto
+[2018.09.25-07.42.56:006][955]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Interfacce/Immagini/remove.remove
+[2018.09.25-07.42.56:134][955]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0014 seconds. Added 1 classes and 2 folders.
+[2018.09.25-07.43.06:414][521]LogEditorFactories: Performing atomic reimport of [D:/The game/Immagini/remove.png]
+[2018.09.25-07.43.06:414][521]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/The game/Immagini/remove.png)
+[2018.09.25-07.43.06:421][521]LogTexture: Display: Building textures: remove (BGRA8, 225X225)
+[2018.09.25-07.43.06:439][521]LogEditorFactories: -- imported successfully
+[2018.09.25-07.43.11:704][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interfacce/Immagini/remove" FILE="../../../../../../The game/Game/Content/Interfacce/Immagini/remove.uasset" SILENT=true
+[2018.09.25-07.43.11:796][833]LogSavePackage: Moving '../../../../../../The game/Game/Saved/removeB363977941BD8914A2B6CF9DF997B19F.tmp' to '../../../../../../The game/Game/Content/Interfacce/Immagini/remove.uasset'
+[2018.09.25-07.43.16:247][937]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.25-07.43.41:418][392]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Interfacce/Orto.Orto
+[2018.09.25-07.44.20:476][548]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.25-07.44.29:692][ 55]LogHttp: Warning: 00000287908BDA80: request failed, libcurl error: 35 (SSL connect error)
+[2018.09.25-07.44.29:692][ 55]LogHttp: Warning: 00000287908BDA80: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.09.25-07.44.29:692][ 55]LogHttp: Warning: 00000287908BDA80: libcurl info message cache 1 (  Trying 52.204.40.189...)
+[2018.09.25-07.44.29:692][ 55]LogHttp: Warning: 00000287908BDA80: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.09.25-07.44.29:692][ 55]LogHttp: Warning: 00000287908BDA80: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.204.40.189) port 443 (#13))
+[2018.09.25-07.44.29:692][ 55]LogHttp: Warning: 00000287908BDA80: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2018.09.25-07.44.29:692][ 55]LogHttp: Warning: 00000287908BDA80: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.25-07.44.29:692][ 55]LogHttp: Warning: 00000287908BDA80: libcurl info message cache 6 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.09.25-07.44.29:692][ 55]LogHttp: Warning: 00000287908BDA80: libcurl info message cache 7 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.25-07.44.29:692][ 55]LogHttp: Warning: 00000287908BDA80: libcurl info message cache 8 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2018.09.25-07.44.29:692][ 55]LogHttp: Warning: 00000287908BDA80: libcurl info message cache 9 (Closing connection 13)
+[2018.09.25-07.44.42:022][784]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.25-07.44.54:837][578]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.25-07.44.57:819][776]BlueprintLog: New page: Compile Orto
+[2018.09.25-07.45.24:922][622]BlueprintLog: New page: Compile Orto
+[2018.09.25-07.46.03:917][464]BlueprintLog: New page: Compile Orto
+[2018.09.25-07.46.30:063][663]LogHttp: Warning: 00000287DAF5E200: request failed, libcurl error: 35 (SSL connect error)
+[2018.09.25-07.46.30:063][663]LogHttp: Warning: 00000287DAF5E200: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.09.25-07.46.30:063][663]LogHttp: Warning: 00000287DAF5E200: libcurl info message cache 1 (  Trying 34.192.69.192...)
+[2018.09.25-07.46.30:063][663]LogHttp: Warning: 00000287DAF5E200: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.09.25-07.46.30:063][663]LogHttp: Warning: 00000287DAF5E200: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (34.192.69.192) port 443 (#14))
+[2018.09.25-07.46.30:063][663]LogHttp: Warning: 00000287DAF5E200: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2018.09.25-07.46.30:063][663]LogHttp: Warning: 00000287DAF5E200: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.25-07.46.30:063][663]LogHttp: Warning: 00000287DAF5E200: libcurl info message cache 6 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.09.25-07.46.30:063][663]LogHttp: Warning: 00000287DAF5E200: libcurl info message cache 7 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.25-07.46.30:064][663]LogHttp: Warning: 00000287DAF5E200: libcurl info message cache 8 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2018.09.25-07.46.30:064][663]LogHttp: Warning: 00000287DAF5E200: libcurl info message cache 9 (Closing connection 14)
+[2018.09.25-07.47.12:512][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interfacce/Orto" FILE="../../../../../../The game/Game/Content/Interfacce/Orto.uasset" SILENT=true
+[2018.09.25-07.47.13:499][128]LogSavePackage: Moving '../../../../../../The game/Game/Saved/OrtoA535950A4E88664F9BD93CA29B6A03C0.tmp' to '../../../../../../The game/Game/Content/Interfacce/Orto.uasset'
+[2018.09.25-07.47.19:762][528]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StanzaGenerica2)
+[2018.09.25-07.47.20:997][568]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.09.25-07.47.22:438][606]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StanzaGenerica3)
+[2018.09.25-07.47.24:757][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-07.47.59:217][833]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StanzaGenerica3)
+[2018.09.25-07.48.03:707][979]Cmd: EDIT COPY
+[2018.09.25-07.48.04:190][995]Cmd: EDIT PASTE
+[2018.09.25-07.48.11:381][211]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (StanzaGenerica4)
+[2018.09.25-07.48.11:509][211]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.25-07.48.12:665][243]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StanzaGenerica4)
+[2018.09.25-07.48.23:292][566]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-07.48.30:329][781]LogHttp: Warning: 0000028790113380: request failed, libcurl error: 35 (SSL connect error)
+[2018.09.25-07.48.30:329][781]LogHttp: Warning: 0000028790113380: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.09.25-07.48.30:330][781]LogHttp: Warning: 0000028790113380: libcurl info message cache 1 (  Trying 52.5.135.24...)
+[2018.09.25-07.48.30:330][781]LogHttp: Warning: 0000028790113380: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.09.25-07.48.30:330][781]LogHttp: Warning: 0000028790113380: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.5.135.24) port 443 (#15))
+[2018.09.25-07.48.30:330][781]LogHttp: Warning: 0000028790113380: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2018.09.25-07.48.30:330][781]LogHttp: Warning: 0000028790113380: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.25-07.48.30:330][781]LogHttp: Warning: 0000028790113380: libcurl info message cache 6 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.09.25-07.48.30:330][781]LogHttp: Warning: 0000028790113380: libcurl info message cache 7 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.25-07.48.30:330][781]LogHttp: Warning: 0000028790113380: libcurl info message cache 8 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2018.09.25-07.48.30:330][781]LogHttp: Warning: 0000028790113380: libcurl info message cache 9 (Closing connection 15)
+[2018.09.25-07.48.35:647][954]MapCheck: New page: Map Check
+[2018.09.25-07.48.35:686][954]Cmd: MAP REBUILD ALLVISIBLE
+[2018.09.25-07.48.35:687][954]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.09.25-07.48.35:876][954]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Erba, compiling. 
+[2018.09.25-07.48.35:893][954]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.25-07.48.35:893][954]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.09.25-07.48.35:912][954]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Strada, compiling. 
+[2018.09.25-07.48.35:931][954]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.25-07.48.35:931][954]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.25-07.48.35:931][954]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Castello, compiling. 
+[2018.09.25-07.48.35:969][954]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Legno, compiling. 
+[2018.09.25-07.48.36:000][954]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Metallo, compiling. 
+[2018.09.25-07.48.36:031][954]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Terra, compiling. 
+[2018.09.25-07.48.38:070][954]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.25-07.48.38:070][954]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.25-07.48.38:070][954]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.25-07.48.38:070][954]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.25-07.48.38:070][954]TextureStreamingBuild: Display: Compiling optional shaders took 2.209 seconds.
+[2018.09.25-07.48.38:118][954]LogLevel: Display: Export Material TexCoord Scales took 0.048 seconds.
+[2018.09.25-07.48.38:154][954]TextureStreamingBuild: Display: Build Texture Streaming took 0.034 seconds.
+[2018.09.25-07.48.38:190][954]LightingResults: New page: Lighting Build - 25/set/2018 11:48:38
+[2018.09.25-07.48.38:657][954]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.09.25-07.48.39:241][954]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.09.25-07.48.39:337][954]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.09.25-07.48.41:403][954]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2018.09.25-07.48.41:472][954]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): Impossibile stabilire la connessione. Rifiuto persistente del computer di destinazione 127.0.0.1:8008
+
+Server stack trace: 
+   in System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   in System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   in System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   in System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   in System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   in System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   in System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   in System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   in System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   in NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   in NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags) in D:\Build\++UE4\Sync\Saved\CsTools\Engine\Source\Editor\SwarmInterface\DotNET\SwarmInterface.cs:riga 2811
+[2018.09.25-07.48.46:528][954]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.09.25-07.48.46:528][954]LogSwarmInterface: [TryOpenConnection] Local Process ID is 6124
+[2018.09.25-07.48.46:603][954]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.09.25-07.48.46:603][954]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.09.25-07.48.46:603][954]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.09.25-07.48.46:603][954]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.09.25-07.48.46:603][954]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.09.25-07.48.46:603][954]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.09.25-07.48.47:285][954]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.09.25-07.48.47:285][954]MapCheck: New page: Castello - 25/set/2018 11:48:47
+[2018.09.25-07.48.47:292][954]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.09.25-07.48.47:293][954]MapCheck: Warning: fontana_10 Static mesh actor has NULL StaticMesh property 
+[2018.09.25-07.48.47:293][954]MapCheck: Warning: fontana_10 Static mesh actor fontana_10 has NULL StaticMesh property 
+[2018.09.25-07.48.47:468][954]MapCheck: Map check complete: 1 Error(s), 2 Warning(s), took 182,439ms to complete.
+[2018.09.25-07.48.47:490][954]LogEditorBuildUtils: Build time 0:11
+[2018.09.25-07.48.47:524][954]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Erba, compiling. 
+[2018.09.25-07.48.47:536][954]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.25-07.48.47:536][954]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Erba, compiling. 
+[2018.09.25-07.48.48:083][954]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.25-07.48.48:185][955]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2018.09.25-07.48.48:240][955]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.25-07.48.48:240][955]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2018.09.25-07.48.48:505][956]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Strada, compiling. 
+[2018.09.25-07.48.48:531][956]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Strada, compiling. 
+[2018.09.25-07.48.48:731][957]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Castello, compiling. 
+[2018.09.25-07.48.48:768][957]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Castello, compiling. 
+[2018.09.25-07.48.48:864][958]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Legno, compiling. 
+[2018.09.25-07.48.48:921][958]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Legno, compiling. 
+[2018.09.25-07.48.49:109][959]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Metallo, compiling. 
+[2018.09.25-07.48.49:130][959]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Metallo, compiling. 
+[2018.09.25-07.48.49:282][960]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Terra, compiling. 
+[2018.09.25-07.48.49:310][960]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Terra, compiling. 
+[2018.09.25-07.48.49:471][961]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.09.25-07.48.49:513][961]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.09.25-07.48.56:193][963]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.25-07.48.56:193][963]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.25-07.48.56:193][963]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.25-07.49.05:859][151]LightingResults: Warning: StanzaGenerica Object has overlapping UVs.
+[2018.09.25-07.49.05:859][151]LightingResults: StanzaGenerica Lightmap UV are overlapping by 3.9%. Please adjust content - Enable Error Coloring to visualize.
+[2018.09.25-07.49.12:082][313]LightingResults: Warning: Leva_Cylinder Object has overlapping UVs.
+[2018.09.25-07.49.12:082][313]LightingResults: Leva_Cylinder Lightmap UV are overlapping by 3.6%. Please adjust content - Enable Error Coloring to visualize.
+[2018.09.25-07.49.13:430][348]LightingResults: Warning: StanzaGenerica Object has overlapping UVs.
+[2018.09.25-07.49.13:472][349]LightingResults: StanzaGenerica Lightmap UV are overlapping by 3.9%. Please adjust content - Enable Error Coloring to visualize.
+[2018.09.25-07.49.15:074][389]LightingResults: Warning: StanzaGenerica Object has overlapping UVs.
+[2018.09.25-07.49.15:074][389]LightingResults: StanzaGenerica Lightmap UV are overlapping by 3.9%. Please adjust content - Enable Error Coloring to visualize.
+[2018.09.25-07.49.15:182][392]Job is a success!
+[2018.09.25-07.49.15:342][393]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.031s
+[2018.09.25-07.49.15:342][393]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.09.25-07.49.15:342][393]LogVolumetricLightmapImport:      BrickData 250x5x5 = 0.2Mb
+[2018.09.25-07.49.15:342][393]LogVolumetricLightmapImport:      Bricks at Level
+[2018.09.25-07.49.15:342][393]LogVolumetricLightmapImport:          0: 2.0% covering 100.0% of volume
+[2018.09.25-07.49.15:342][393]LogVolumetricLightmapImport:          1: 6.0% covering 4.7% of volume
+[2018.09.25-07.49.15:343][393]LogVolumetricLightmapImport:          2: 92.0% covering 1.1% of volume
+[2018.09.25-07.49.15:836][393]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2018.09.25-07.49.15:836][393]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2018.09.25-07.49.15:836][393]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.09.25-07.49.15:836][393]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.09.25-07.49.15:932][393]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2018.09.25-07.49.15:932][393]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X128)
+[2018.09.25-07.49.15:990][393]Lightmass on DESKTOP-O9SGR6I: 15.5 sec total, 1.08 sec importing, 125 ms setup, 2.84 sec photons, 11.4 sec processing, 0 ms extra exporting [21/21 mappings]. Threads: 45.7 sec total, 27.3 sec processing.
+[2018.09.25-07.49.16:048][393]LogStaticLightingSystem: Illumination: 37.8 sec (445 ms encoding lightmaps, 88 ms encoding shadowmaps)
+[2018.09.25-07.49.16:048][393]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.09.25-07.49.16:048][393]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.09.25-07.49.16:618][393]DumpUnbuiltLightIteractions
+[2018.09.25-07.49.16:619][393]Lights with unbuilt interactions: 0
+[2018.09.25-07.49.16:619][393]
+[2018.09.25-07.49.16:619][393]Primitives with unbuilt interactions: 0
+[2018.09.25-07.49.16:640][393]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.25-07.49.16:981][394]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.09.25-07.49.16:981][394]MapCheck: New page: Castello - 25/set/2018 11:49:16
+[2018.09.25-07.49.16:981][394]MapCheck: Warning: fontana_10 Static mesh actor has NULL StaticMesh property 
+[2018.09.25-07.49.16:982][394]MapCheck: Warning: fontana_10 Static mesh actor fontana_10 has NULL StaticMesh property 
+[2018.09.25-07.49.17:133][394]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 152,3ms to complete.
+[2018.09.25-07.49.20:065][482]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-07.49.21:181][524]LogSlate: Window 'Message Log' being destroyed
+[2018.09.25-07.49.22:017][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-07.49.46:594][457]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.25-07.49.46:619][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mappa/Castello" FILE="../../../../../../The game/Game/Content/Mappa/Castello.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.25-07.49.47:609][457]LogSavePackage: Moving '../../../../../../The game/Game/Saved/CastelloF9230A044FCFD313C271AF9096B5E6BE.tmp' to '../../../../../../The game/Game/Content/Mappa/Castello.umap'
+[2018.09.25-07.49.47:718][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mappa/Castello_BuiltData" FILE="../../../../../../The game/Game/Content/Mappa/Castello_BuiltData.uasset" SILENT=true
+[2018.09.25-07.49.48:285][457]LogSavePackage: Moving '../../../../../../The game/Game/Saved/Castello_BuiltDataB805C518444FC787B9CADCB500BC24CA.tmp' to '../../../../../../The game/Game/Content/Mappa/Castello_BuiltData.uasset'
+[2018.09.25-07.49.49:883][514]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.25-07.49.57:108][759]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-07.49.57:614][759]LogSlate: Window 'Game - Unreal Editor' being destroyed
+[2018.09.25-07.49.57:616][759]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.25-07.49.57:992][760]Cmd: QUIT_EDITOR
+[2018.09.25-07.49.58:740][760]LogExit: Preparing to exit.
+[2018.09.25-07.49.59:266][760]LogExit: Editor shut down
+[2018.09.25-07.49.59:269][760]LogExit: Transaction tracking system shut down
+[2018.09.25-07.49.59:936][760]LogExit: Object subsystem successfully closed.
+[2018.09.25-07.49.59:967][760]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.09.25-07.49.59:978][760]LogD3D11RHI: Shutdown
+[2018.09.25-07.49.59:978][760]LogD3D11RHI: CleanupD3DDevice
+[2018.09.25-07.50.00:051][760]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.09.25-07.50.00:095][760]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (632)
+[2018.09.25-07.50.00:095][760]LogModuleManager: Shutting down and abandoning module TextureEditor (630)
+[2018.09.25-07.50.00:095][760]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (628)
+[2018.09.25-07.50.00:095][760]LogModuleManager: Shutting down and abandoning module Voice (626)
+[2018.09.25-07.50.00:095][760]LogModuleManager: Shutting down and abandoning module BlueprintNativeCodeGen (624)
+[2018.09.25-07.50.00:095][760]LogModuleManager: Shutting down and abandoning module LauncherServices (622)
+[2018.09.25-07.50.00:095][760]LogModuleManager: Shutting down and abandoning module DataTableEditor (620)
+[2018.09.25-07.50.00:095][760]LogModuleManager: Shutting down and abandoning module SequencerWidgets (618)
+[2018.09.25-07.50.00:095][760]LogModuleManager: Shutting down and abandoning module BlueprintGraph (616)
+[2018.09.25-07.50.00:095][760]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (614)
+[2018.09.25-07.50.00:095][760]LogModuleManager: Shutting down and abandoning module SceneOutliner (612)
+[2018.09.25-07.50.00:096][760]LogModuleManager: Shutting down and abandoning module AddContentDialog (610)
+[2018.09.25-07.50.00:096][760]LogModuleManager: Shutting down and abandoning module WidgetCarousel (609)
+[2018.09.25-07.50.00:096][760]LogModuleManager: Shutting down and abandoning module EditorWidgets (606)
+[2018.09.25-07.50.00:097][760]LogModuleManager: Shutting down and abandoning module CollectionManager (604)
+[2018.09.25-07.50.00:097][760]LogModuleManager: Shutting down and abandoning module MeshBuilder (602)
+[2018.09.25-07.50.00:097][760]LogModuleManager: Shutting down and abandoning module StatsViewer (600)
+[2018.09.25-07.50.00:097][760]LogModuleManager: Shutting down and abandoning module FoliageEdit (598)
+[2018.09.25-07.50.00:097][760]LogModuleManager: Shutting down and abandoning module LandscapeEditor (596)
+[2018.09.25-07.50.00:098][760]LogModuleManager: Shutting down and abandoning module MeshPaintMode (594)
+[2018.09.25-07.50.00:098][760]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (592)
+[2018.09.25-07.50.00:098][760]LogModuleManager: Shutting down and abandoning module ActorPickerMode (590)
+[2018.09.25-07.50.00:098][760]LogModuleManager: Shutting down and abandoning module GeometryMode (588)
+[2018.09.25-07.50.00:098][760]LogModuleManager: Shutting down and abandoning module TextureAlignMode (586)
+[2018.09.25-07.50.00:098][760]LogModuleManager: Shutting down and abandoning module BspMode (584)
+[2018.09.25-07.50.00:098][760]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (582)
+[2018.09.25-07.50.00:098][760]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (580)
+[2018.09.25-07.50.00:098][760]LogModuleManager: Shutting down and abandoning module AutomationWorker (578)
+[2018.09.25-07.50.00:098][760]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (576)
+[2018.09.25-07.50.00:098][760]LogModuleManager: Shutting down and abandoning module SequenceRecorder (575)
+[2018.09.25-07.50.00:098][760]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (572)
+[2018.09.25-07.50.00:098][760]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (570)
+[2018.09.25-07.50.00:099][760]LogModuleManager: Shutting down and abandoning module PlacementMode (569)
+[2018.09.25-07.50.00:099][760]LogModuleManager: Shutting down and abandoning module MaterialEditor (568)
+[2018.09.25-07.50.00:099][760]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (564)
+[2018.09.25-07.50.00:099][760]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (562)
+[2018.09.25-07.50.00:099][760]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (560)
+[2018.09.25-07.50.00:099][760]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (558)
+[2018.09.25-07.50.00:099][760]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (556)
+[2018.09.25-07.50.00:099][760]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (554)
+[2018.09.25-07.50.00:099][760]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (552)
+[2018.09.25-07.50.00:100][760]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (550)
+[2018.09.25-07.50.00:100][760]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (548)
+[2018.09.25-07.50.00:100][760]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (546)
+[2018.09.25-07.50.00:100][760]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (544)
+[2018.09.25-07.50.00:100][760]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (542)
+[2018.09.25-07.50.00:100][760]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (540)
+[2018.09.25-07.50.00:100][760]LogModuleManager: Shutting down and abandoning module CharacterAI (538)
+[2018.09.25-07.50.00:100][760]LogModuleManager: Shutting down and abandoning module SmartSnapping (536)
+[2018.09.25-07.50.00:100][760]LogModuleManager: Shutting down and abandoning module SessionServices (534)
+[2018.09.25-07.50.00:100][760]LogModuleManager: Shutting down and abandoning module ViewportSnapping (532)
+[2018.09.25-07.50.00:100][760]LogModuleManager: Shutting down and abandoning module ViewportInteraction (530)
+[2018.09.25-07.50.00:100][760]LogModuleManager: Shutting down and abandoning module ClothPainter (528)
+[2018.09.25-07.50.00:100][760]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (527)
+[2018.09.25-07.50.00:100][760]LogModuleManager: Shutting down and abandoning module LogVisualizer (524)
+[2018.09.25-07.50.00:101][760]LogModuleManager: Shutting down and abandoning module IntroTutorials (522)
+[2018.09.25-07.50.00:101][760]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (521)
+[2018.09.25-07.50.00:101][760]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (518)
+[2018.09.25-07.50.00:101][760]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (516)
+[2018.09.25-07.50.00:101][760]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (514)
+[2018.09.25-07.50.00:101][760]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (512)
+[2018.09.25-07.50.00:101][760]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (511)
+[2018.09.25-07.50.00:666][760]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (508)
+[2018.09.25-07.50.00:666][760]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (506)
+[2018.09.25-07.50.00:667][760]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (504)
+[2018.09.25-07.50.00:667][760]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (502)
+[2018.09.25-07.50.00:667][760]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2018.09.25-07.50.00:667][760]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2018.09.25-07.50.00:667][760]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2018.09.25-07.50.00:668][760]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2018.09.25-07.50.00:668][760]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2018.09.25-07.50.00:668][760]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2018.09.25-07.50.00:668][760]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2018.09.25-07.50.00:668][760]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2018.09.25-07.50.00:668][760]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2018.09.25-07.50.00:668][760]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2018.09.25-07.50.00:668][760]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2018.09.25-07.50.00:669][760]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2018.09.25-07.50.00:669][760]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2018.09.25-07.50.00:669][760]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2018.09.25-07.50.00:669][760]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2018.09.25-07.50.00:669][760]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2018.09.25-07.50.00:669][760]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2018.09.25-07.50.00:669][760]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2018.09.25-07.50.00:725][760]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2018.09.25-07.50.00:725][760]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2018.09.25-07.50.00:726][760]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2018.09.25-07.50.00:726][760]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2018.09.25-07.50.00:726][760]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2018.09.25-07.50.00:726][760]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2018.09.25-07.50.00:727][760]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2018.09.25-07.50.00:727][760]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2018.09.25-07.50.00:727][760]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2018.09.25-07.50.00:727][760]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2018.09.25-07.50.00:749][760]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2018.09.25-07.50.00:750][760]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2018.09.25-07.50.00:750][760]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2018.09.25-07.50.00:750][760]LogModuleManager: Shutting down and abandoning module DesktopPlatform (439)
+[2018.09.25-07.50.00:750][760]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.09.25-07.50.00:750][760]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.09.25-07.50.00:751][760]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.09.25-07.50.00:751][760]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.09.25-07.50.00:751][760]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.09.25-07.50.00:751][760]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.09.25-07.50.00:751][760]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.09.25-07.50.00:751][760]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.09.25-07.50.00:751][760]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.09.25-07.50.00:752][760]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.09.25-07.50.00:752][760]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.09.25-07.50.00:752][760]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.09.25-07.50.00:752][760]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.09.25-07.50.00:752][760]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.09.25-07.50.00:752][760]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.09.25-07.50.00:752][760]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.09.25-07.50.00:753][760]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.09.25-07.50.00:753][760]LogModuleManager: Shutting down and abandoning module ProfilerService (402)
+[2018.09.25-07.50.00:767][760]LogModuleManager: Shutting down and abandoning module TaskGraph (400)
+[2018.09.25-07.50.00:768][760]LogModuleManager: Shutting down and abandoning module SteamVRController (398)
+[2018.09.25-07.50.00:768][760]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (396)
+[2018.09.25-07.50.00:768][760]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (394)
+[2018.09.25-07.50.00:768][760]LogModuleManager: Shutting down and abandoning module OculusInput (392)
+[2018.09.25-07.50.00:768][760]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (390)
+[2018.09.25-07.50.00:768][760]LogModuleManager: Shutting down and abandoning module EditableMesh (388)
+[2018.09.25-07.50.00:768][760]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (386)
+[2018.09.25-07.50.00:768][760]LogModuleManager: Shutting down and abandoning module CableComponent (384)
+[2018.09.25-07.50.00:768][760]LogModuleManager: Shutting down and abandoning module AudioCapture (382)
+[2018.09.25-07.50.00:768][760]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (380)
+[2018.09.25-07.50.00:769][760]LogModuleManager: Shutting down and abandoning module AndroidPermission (378)
+[2018.09.25-07.50.00:769][760]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (376)
+[2018.09.25-07.50.00:769][760]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (374)
+[2018.09.25-07.50.00:769][760]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (372)
+[2018.09.25-07.50.00:769][760]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2018.09.25-07.50.00:769][760]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2018.09.25-07.50.00:769][760]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2018.09.25-07.50.00:784][760]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2018.09.25-07.50.00:784][760]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2018.09.25-07.50.00:784][760]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2018.09.25-07.50.00:784][760]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2018.09.25-07.50.00:784][760]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2018.09.25-07.50.00:784][760]LogModuleManager: Shutting down and abandoning module AppleImageUtils (354)
+[2018.09.25-07.50.00:784][760]LogModuleManager: Shutting down and abandoning module AlembicImporter (352)
+[2018.09.25-07.50.00:785][760]LogModuleManager: Shutting down and abandoning module AlembicLibrary (351)
+[2018.09.25-07.50.00:785][760]LogModuleManager: Shutting down and abandoning module GeometryCache (350)
+[2018.09.25-07.50.00:785][760]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (349)
+[2018.09.25-07.50.00:785][760]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (344)
+[2018.09.25-07.50.00:785][760]LogModuleManager: Shutting down and abandoning module DatasmithContent (342)
+[2018.09.25-07.50.00:787][760]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (340)
+[2018.09.25-07.50.00:787][760]LogModuleManager: Shutting down and abandoning module PluginBrowser (338)
+[2018.09.25-07.50.00:787][760]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (336)
+[2018.09.25-07.50.00:788][760]LogModuleManager: Shutting down and abandoning module PolygonModeling (334)
+[2018.09.25-07.50.00:788][760]LogModuleManager: Shutting down and abandoning module MeshEditor (332)
+[2018.09.25-07.50.00:788][760]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2018.09.25-07.50.00:788][760]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2018.09.25-07.50.00:788][760]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2018.09.25-07.50.00:788][760]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2018.09.25-07.50.00:788][760]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2018.09.25-07.50.00:788][760]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2018.09.25-07.50.00:789][760]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2018.09.25-07.50.00:789][760]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2018.09.25-07.50.00:789][760]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2018.09.25-07.50.00:789][760]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2018.09.25-07.50.00:789][760]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (310)
+[2018.09.25-07.50.00:789][760]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (308)
+[2018.09.25-07.50.00:789][760]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (306)
+[2018.09.25-07.50.00:789][760]LogModuleManager: Shutting down and abandoning module Paper2DEditor (304)
+[2018.09.25-07.50.00:790][760]LogModuleManager: Shutting down and abandoning module MeshPaint (303)
+[2018.09.25-07.50.00:790][760]LogModuleManager: Shutting down and abandoning module Game (300)
+[2018.09.25-07.50.00:790][760]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.09.25-07.50.00:790][760]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.09.25-07.50.00:790][760]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.09.25-07.50.00:790][760]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.09.25-07.50.00:790][760]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.09.25-07.50.00:791][760]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.09.25-07.50.00:791][760]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.09.25-07.50.00:791][760]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.09.25-07.50.00:791][760]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.09.25-07.50.00:892][760]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.09.25-07.50.00:993][760]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.09.25-07.50.00:993][760]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.09.25-07.50.00:994][760]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.09.25-07.50.00:994][760]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.09.25-07.50.00:994][760]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.09.25-07.50.00:994][760]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.09.25-07.50.00:995][760]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.09.25-07.50.00:998][760]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.09.25-07.50.00:999][760]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.09.25-07.50.01:000][760]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.09.25-07.50.01:000][760]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.09.25-07.50.01:003][760]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.09.25-07.50.01:012][760]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.09.25-07.50.01:012][760]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.09.25-07.50.01:012][760]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.09.25-07.50.01:012][760]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.09.25-07.50.01:013][760]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.09.25-07.50.01:013][760]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.09.25-07.50.01:040][760]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.09.25-07.50.01:047][760]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.09.25-07.50.01:048][760]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.09.25-07.50.01:048][760]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.09.25-07.50.01:048][760]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.09.25-07.50.01:048][760]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.09.25-07.50.01:048][760]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.09.25-07.50.01:048][760]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.09.25-07.50.01:048][760]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.09.25-07.50.01:048][760]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.09.25-07.50.01:049][760]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.09.25-07.50.01:049][760]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.09.25-07.50.01:049][760]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.09.25-07.50.01:049][760]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.09.25-07.50.01:049][760]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.09.25-07.50.01:049][760]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.09.25-07.50.01:049][760]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.09.25-07.50.01:050][760]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.09.25-07.50.01:050][760]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.09.25-07.50.01:050][760]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.09.25-07.50.01:050][760]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.09.25-07.50.01:056][760]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.09.25-07.50.01:056][760]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.09.25-07.50.01:057][760]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.09.25-07.50.01:057][760]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.09.25-07.50.01:057][760]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.09.25-07.50.01:057][760]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.09.25-07.50.01:057][760]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.09.25-07.50.01:057][760]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.09.25-07.50.01:057][760]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.09.25-07.50.01:057][760]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.09.25-07.50.01:057][760]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.09.25-07.50.01:057][760]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.09.25-07.50.01:058][760]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.09.25-07.50.01:058][760]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.09.25-07.50.01:058][760]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.09.25-07.50.01:058][760]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.09.25-07.50.01:059][760]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.09.25-07.50.01:063][760]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.09.25-07.50.01:101][760]LogDerivedDataCache: Shutdown
+[2018.09.25-07.50.01:102][760]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.09.25-07.50.01:102][760]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.09.25-07.50.01:102][760]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.09.25-07.50.01:102][760]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.09.25-07.50.01:102][760]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.09.25-07.50.01:102][760]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.09.25-07.50.01:102][760]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.09.25-07.50.01:102][760]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.09.25-07.50.01:103][760]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.09.25-07.50.01:103][760]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.09.25-07.50.01:103][760]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.09.25-07.50.01:103][760]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.09.25-07.50.01:103][760]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.09.25-07.50.01:103][760]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.09.25-07.50.01:103][760]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.09.25-07.50.01:103][760]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.09.25-07.50.01:103][760]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.09.25-07.50.01:104][760]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.09.25-07.50.01:104][760]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.09.25-07.50.01:104][760]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.09.25-07.50.01:104][760]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.09.25-07.50.01:104][760]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.09.25-07.50.01:104][760]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.09.25-07.50.01:106][760]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.09.25-07.50.01:106][760]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.09.25-07.50.01:109][760]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.09.25-07.50.01:110][760]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.09.25-07.50.01:131][760]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.09.25-07.50.01:131][760]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.09.25-07.50.01:131][760]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.09.25-07.50.01:131][760]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.09.25-07.50.01:131][760]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.09.25-07.50.01:131][760]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.09.25-07.50.01:131][760]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.09.25-07.50.01:131][760]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.09.25-07.50.01:131][760]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.09.25-07.50.01:131][760]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.09.25-07.50.01:132][760]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.09.25-07.50.01:132][760]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.09.25-07.50.01:132][760]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.09.25-07.50.01:132][760]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.09.25-07.50.01:132][760]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.09.25-07.50.01:132][760]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.09.25-07.50.01:132][760]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.09.25-07.50.01:132][760]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.09.25-07.50.01:134][760]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.09.25-07.50.01:135][760]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.09.25-07.50.01:169][760]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.09.25-07.50.01:169][760]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.09.25-07.50.01:169][760]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA451C8FA-4EFC-D6A2-D611-C095DFDE26BC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=7667e739476eb46df766c4b58fdaf609%7C%7C9ed4e4b1-3c85-4601-877a-b38d425ed915&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.09.25-07.50.01:170][760]LogHttp: Warning: 00000287B94C7600: request failed, libcurl error: 35 (SSL connect error)
+[2018.09.25-07.50.01:170][760]LogHttp: Warning: 00000287B94C7600: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.09.25-07.50.01:170][760]LogHttp: Warning: 00000287B94C7600: libcurl info message cache 1 (  Trying 52.22.97.182...)
+[2018.09.25-07.50.01:170][760]LogHttp: Warning: 00000287B94C7600: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.09.25-07.50.01:170][760]LogHttp: Warning: 00000287B94C7600: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.22.97.182) port 443 (#16))
+[2018.09.25-07.50.01:170][760]LogHttp: Warning: 00000287B94C7600: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2018.09.25-07.50.01:170][760]LogHttp: Warning: 00000287B94C7600: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.09.25-07.50.01:170][760]LogHttp: Warning: 00000287B94C7600: libcurl info message cache 6 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.09.25-07.50.01:170][760]LogHttp: Warning: 00000287B94C7600: libcurl info message cache 7 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.09.25-07.50.01:170][760]LogHttp: Warning: 00000287B94C7600: libcurl info message cache 8 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2018.09.25-07.50.01:170][760]LogHttp: Warning: 00000287B94C7600: libcurl info message cache 9 (Closing connection 16)
+[2018.09.25-07.50.01:189][760]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.09.25-07.50.01:193][760]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.09.25-07.50.01:193][760]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.09.25-07.50.01:193][760]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.09.25-07.50.01:193][760]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.09.25-07.50.01:193][760]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.09.25-07.50.01:193][760]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.09.25-07.50.01:193][760]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.09.25-07.50.01:193][760]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.09.25-07.50.01:193][760]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.09.25-07.50.01:194][760]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.09.25-07.50.01:194][760]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.09.25-07.50.01:194][760]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.09.25-07.50.01:194][760]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.09.25-07.50.01:194][760]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.09.25-07.50.01:195][760]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.09.25-07.50.01:195][760]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.09.25-07.50.01:195][760]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.09.25-07.50.01:195][760]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.09.25-07.50.01:197][760]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.09.25-07.50.01:197][760]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.09.25-07.50.01:197][760]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.09.25-07.50.01:197][760]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.09.25-07.50.01:197][760]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.09.25-07.50.01:197][760]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.09.25-07.50.01:197][760]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.09.25-07.50.01:198][760]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.09.25-07.50.01:198][760]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.09.25-07.50.01:198][760]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.09.25-07.50.01:198][760]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.09.25-07.50.01:209][760]LogExit: Exiting.
+[2018.09.25-07.50.01:277][760]Log file closed, 09/25/18 09:50:01
