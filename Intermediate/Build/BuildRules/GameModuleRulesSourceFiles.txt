@@ -1,0 +1,3 @@
+I:\The game\Game\Source\Game\Game.Build.cs
+I:\The game\Game\Source\Game.Target.cs
+I:\The game\Game\Source\GameEditor.Target.cs
