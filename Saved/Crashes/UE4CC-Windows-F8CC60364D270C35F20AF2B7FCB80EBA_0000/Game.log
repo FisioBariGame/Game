@@ -1,0 +1,591 @@
+﻿Log file open, 10/26/18 11:02:33
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Game
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.182109
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.992s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 7 (Service Pack 1), CPU:        Intel(R) Core(TM) i3-3110M CPU @ 2.40GHz, GPU: Intel(R) HD Graphics 4000
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: G:/Programmi/Epic Games Launcher/Unreal Engine/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.053s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.26-09.02.34:131][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.26-09.02.34:131][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.26-09.02.34:175][  0]LogHAL: Display: Platform has ~ 8 GB [8463634432 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.26-09.02.34:175][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.26-09.02.34:175][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.26-09.02.34:176][  0]LogInit: Computer: USER-HP
+[2018.10.26-09.02.34:176][  0]LogInit: User: User
+[2018.10.26-09.02.34:176][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.10.26-09.02.34:176][  0]LogInit: High frequency timer resolution =2.338476 MHz
+[2018.10.26-09.02.34:176][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.10.26-09.02.34:176][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.26-09.02.34:176][  0]LogMemory: Process Physical Memory: 100.10 MB used, 100.10 MB peak
+[2018.10.26-09.02.34:176][  0]LogMemory: Process Virtual Memory: 84.95 MB used, 84.95 MB peak
+[2018.10.26-09.02.34:176][  0]LogMemory: Physical Memory: 2754.44 MB used,  5317.11 MB free, 8071.55 MB total
+[2018.10.26-09.02.34:177][  0]LogMemory: Virtual Memory: 472.30 MB used,  5317.11 MB free, 8388608.00 MB total
+[2018.10.26-09.02.34:209][  0]LogInit: Using OS detected language (it-IT).
+[2018.10.26-09.02.34:209][  0]LogInit: Using OS detected locale (it-IT).
+[2018.10.26-09.02.34:210][  0]LogTextLocalizationManager: No specific localization for 'it-IT' exists, so the 'it' localization will be used.
+[2018.10.26-09.02.34:212][  0]LogStreaming: Display: Took  0.003s to InitEngineTextLocalization.
+[2018.10.26-09.02.34:213][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.10.26-09.02.34:213][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.10.26-09.02.34:213][  0]LogInit: Setting process to DPI aware
+[2018.10.26-09.02.34:249][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.26-09.02.34:249][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.26-09.02.34:533][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.26-09.02.34:533][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.26-09.02.34:557][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 4000' (Feature Level 11_0)
+[2018.10.26-09.02.34:557][  0]LogD3D11RHI:       64/0/1632 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.10.26-09.02.34:557][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.26-09.02.34:564][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.26-09.02.34:564][  0]LogD3D11RHI:     GPU DeviceId: 0x166 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.26-09.02.34:564][  0]LogWindows: EnumDisplayDevices:
+[2018.10.26-09.02.34:564][  0]LogWindows:    0. 'Intel(R) HD Graphics 4000' (P:1 D:1)
+[2018.10.26-09.02.34:564][  0]LogWindows:    1. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2018.10.26-09.02.34:565][  0]LogWindows:    2. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2018.10.26-09.02.34:565][  0]LogWindows:    3. 'RDPDD Chained DD' (P:0 D:0)
+[2018.10.26-09.02.34:565][  0]LogWindows:    4. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2018.10.26-09.02.34:565][  0]LogWindows:    5. 'RDP Reflector Display Driver' (P:0 D:0)
+[2018.10.26-09.02.34:565][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:3 
+[2018.10.26-09.02.34:565][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 4000
+[2018.10.26-09.02.34:566][  0]LogD3D11RHI:   Driver Version: 8.15.10.2712 (internal:8.15.10.2712, unified:8.15.10.2712)
+[2018.10.26-09.02.34:566][  0]LogD3D11RHI:      Driver Date: 3-26-2012
+[2018.10.26-09.02.34:566][  0]LogRHI: Texture pool is 616 MB (70% of 880 MB)
+[2018.10.26-09.02.34:582][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.26-09.02.34:602][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 1)
+[2018.10.26-09.02.34:603][  0]LogShaderCompilers: Guid format shader working directory is 12 characters bigger than the processId version (../../../../../../../TheGame/Game/Intermediate/Shaders/WorkingDirectory/3224/).
+[2018.10.26-09.02.34:603][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/186A950B4F27FCA956C83685BD1BCAF7/'.
+[2018.10.26-09.02.35:005][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.26-09.02.35:027][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.26-09.02.35:051][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.26-09.02.35:077][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.26-09.02.35:103][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.26-09.02.35:132][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.26-09.02.35:220][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.26-09.02.35:254][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.26-09.02.35:263][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.26-09.02.35:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.26-09.02.35:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.26-09.02.35:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.26-09.02.35:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.26-09.02.35:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.26-09.02.35:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.26-09.02.35:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.26-09.02.35:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.26-09.02.35:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.26-09.02.35:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.26-09.02.35:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.26-09.02.35:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.26-09.02.35:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.26-09.02.35:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.26-09.02.35:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.26-09.02.35:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.26-09.02.35:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.26-09.02.35:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.26-09.02.35:392][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.26-09.02.35:464][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.26-09.02.35:464][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.26-09.02.35:501][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.26-09.02.35:501][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.26-09.02.35:521][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.26-09.02.35:541][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.26-09.02.35:560][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.26-09.02.35:580][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.26-09.02.35:593][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.26-09.02.35:593][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.26-09.02.35:661][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.26-09.02.35:661][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.26-09.02.35:661][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.26-09.02.36:836][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.26-09.02.36:939][  0]LogDerivedDataCache: Loaded boot cache 0.10s 71MB C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.26-09.02.36:940][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.26-09.02.36:940][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../../TheGame/Game/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.26-09.02.36:940][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.26-09.02.36:940][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../../TheGame/Game/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.26-09.02.36:940][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.26-09.02.36:963][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.26-09.02.36:975][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.26-09.02.36:975][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.26-09.02.36:975][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.26-09.02.37:007][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.26-09.02.37:009][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.26-09.02.37:009][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.26-09.02.37:109][  0]LogAssetRegistry: FAssetRegistry took 0.0272 seconds to start up
+[2018.10.26-09.02.37:653][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.26-09.02.37:870][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.26-09.02.37:874][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.26-09.02.37:874][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.26-09.02.37:874][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.26-09.02.37:874][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.26-09.02.37:903][  0]LogNetVersion: Game 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4261265131)
+[2018.10.26-09.02.40:926][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.410941 seconds
+[2018.10.26-09.02.40:935][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.26-09.02.40:935][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.10.26-09.02.40:935][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.26-09.02.57:559][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.26-09.02.57:625][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.26-09.02.59:449][  0]SourceControl: Source control is disabled
+[2018.10.26-09.02.59:449][  0]SourceControl: Source control is disabled
+[2018.10.26-09.02.59:625][  0]SourceControl: Source control is disabled
+[2018.10.26-09.02.59:690][  0]SourceControl: Source control is disabled
+[2018.10.26-09.03.01:968][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.26-09.03.02:271][  0]LogOcInput: OculusInput pre-init called
+[2018.10.26-09.03.03:080][  0]LogEngine: Initializing Engine...
+[2018.10.26-09.03.03:111][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.26-09.03.03:155][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.020 s
+[2018.10.26-09.03.03:155][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.26-09.03.03:155][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.26-09.03.03:156][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.26-09.03.04:275][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.26-09.03.04:739][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.26-09.03.04:946][  0]LogInit: XAudio2 using 'Speakers / HP (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.26-09.03.05:001][  0]LogInit: FAudioDevice initialized.
+[2018.10.26-09.03.05:002][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.26-09.03.05:012][  0]LogDerivedDataCache: Error: Could not save memory cache C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.26-09.03.05:012][  0]LogInit: Texture streaming: Enabled
+[2018.10.26-09.03.05:242][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.26-09.03.05:335][  0]LogInit: Transaction tracking system initialized
+[2018.10.26-09.03.05:813][  0]BlueprintLog: New page: Editor Load
+[2018.10.26-09.03.07:836][  0]LocalizationService: Localization service is disabled
+[2018.10.26-09.03.12:357][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.26-09.03.12:358][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.26-09.03.12:358][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.26-09.03.12:358][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.26-09.03.12:358][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.26-09.03.12:358][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.26-09.03.12:358][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.26-09.03.13:446][  0]LogFileCache: Scanning file cache for directory 'G:/TheGame/Game/Content/' took 0.03s
+[2018.10.26-09.03.16:411][  0]SourceControl: Source control is disabled
+[2018.10.26-09.03.16:433][  0]Cmd: MAP LOAD FILE="../../../../../../../TheGame/Game/Content/Mappa/Castello.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.26-09.03.16:525][  0]LightingResults: New page: Lighting Build
+[2018.10.26-09.03.16:646][  0]MapCheck: New page: Map Check
+[2018.10.26-09.03.16:646][  0]LightingResults: New page: Lighting Build
+[2018.10.26-09.03.22:906][  0]LogAIModule: Creating AISystem for world Castello
+[2018.10.26-09.03.22:934][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.26-09.03.23:133][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.26-09.03.23:225][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 92,779ms to complete.
+[2018.10.26-09.03.23:226][  0]LogFileHelpers: Loading map 'Castello' took 6.807
+[2018.10.26-09.03.24:664][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.26-09.03.24:734][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.26-09.03.24:752][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.26-09.03.24:764][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.26-09.03.24:890][  0]LogCollectionManager: Loaded 0 collections in 0.003247 seconds
+[2018.10.26-09.03.25:042][  0]LogFileCache: Scanning file cache for directory 'G:/TheGame/Game/Saved/Collections/' took 0.01s
+[2018.10.26-09.03.25:042][  0]LogFileCache: Scanning file cache for directory 'G:/TheGame/Game/Content/Developers/User/Collections/' took 0.01s
+[2018.10.26-09.03.25:042][  0]LogFileCache: Scanning file cache for directory 'G:/TheGame/Game/Content/Collections/' took 0.00s
+[2018.10.26-09.03.25:042][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.10.26-09.03.25:112][  0]LogContentBrowser: Native class hierarchy populated in 0.0688 seconds. Added 2574 classes and 605 folders.
+[2018.10.26-09.03.25:224][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.10.26-09.03.28:113][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.10.26-09.03.28:175][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.10.26-09.03.28:753][  0]LogSlate: Took 0.000451 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.26-09.03.28:758][  0]LogSlate: Took 0.000474 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.26-09.03.28:849][  0]LogSlate: Took 0.018537 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.26-09.03.29:401][  0]LogRenderer: Reallocating scene render targets to support 856x372 Format 10 NumSamples 1 (Frame:1).
+[2018.10.26-09.03.31:731][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.10.26-09.03.31:731][  0]LogLoad: (Engine Initialization) Total time: 61.93 seconds
+[2018.10.26-09.03.31:731][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.26-09.03.31:797][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.26-09.03.31:872][  0]LogSlate: Took 0.019390 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.26-09.03.33:071][  3]LogAssetRegistry: Asset discovery search completed in 55.9826 seconds
+[2018.10.26-09.03.33:074][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.10.26-09.03.33:074][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000086 seconds (updated 0 objects)
+[2018.10.26-09.03.33:113][  3]LogSlate: Took 0.000376 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.26-09.03.37:563][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.26-09.03.37:657][ 66]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Interfacce/Classe.Classe
+[2018.10.26-09.03.40:131][ 66]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0025 seconds. Added 116 classes and 0 folders.
+[2018.10.26-09.03.43:687][ 66]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Interfacce/Orto.Orto
+[2018.10.26-09.03.44:431][ 66]LogSlate: Took 0.022472 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.26-09.03.52:127][597]LogSlate: Took 0.015924 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.26-09.04.43:600][478]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/DatiSalvati/Inventario.Inventario
+[2018.10.26-09.04.48:021][626]LogSlate: Window 'Inventario' being destroyed
+[2018.10.26-09.05.20:430][440]LogSlate: Took 0.062786 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.10.26-09.05.34:370][ 59]BlueprintLog: New page: Compile Inventario
+[2018.10.26-09.05.46:175][382]BlueprintLog: New page: Compile Inventario
+[2018.10.26-09.06.28:237][645]LogEditorTransaction: Undo Change String Pin Value
+[2018.10.26-09.06.28:825][676]LogEditorTransaction: Undo Create Pin Link
+[2018.10.26-09.06.29:237][718]LogEditorTransaction: Undo Delete current selection
+[2018.10.26-09.08.58:143][507]LogEditorTransaction: Undo Delete current selection
+[2018.10.26-09.11.10:022][370]BlueprintLog: New page: Compile Classe
+[2018.10.26-09.11.10:945][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interfacce/Classe" FILE="../../../../../../../TheGame/Game/Content/Interfacce/Classe.uasset" SILENT=true
+[2018.10.26-09.11.11:395][391]LogSavePackage: Moving '../../../../../../../TheGame/Game/Saved/ClasseB69A443E4D669E3F295E3DBF76B526BB.tmp' to '../../../../../../../TheGame/Game/Content/Interfacce/Classe.uasset'
+[2018.10.26-09.11.52:171][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interfacce/Classe" FILE="../../../../../../../TheGame/Game/Content/Interfacce/Classe.uasset" SILENT=true
+[2018.10.26-09.11.52:402][828]LogSavePackage: Moving '../../../../../../../TheGame/Game/Saved/Classe5CACAA8F448138C0A7B6A0B3812174F1.tmp' to '../../../../../../../TheGame/Game/Content/Interfacce/Classe.uasset'
+[2018.10.26-09.11.54:400][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interfacce/Classe" FILE="../../../../../../../TheGame/Game/Content/Interfacce/Classe.uasset" SILENT=true
+[2018.10.26-09.11.54:466][944]LogSavePackage: Moving '../../../../../../../TheGame/Game/Saved/ClasseD9D36EE0462BF1F3BEB26C838CF90E23.tmp' to '../../../../../../../TheGame/Game/Content/Interfacce/Classe.uasset'
+[2018.10.26-09.12.00:463][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DatiSalvati/Inventario" FILE="../../../../../../../TheGame/Game/Content/DatiSalvati/Inventario.uasset" SILENT=true
+[2018.10.26-09.12.00:502][301]LogSavePackage: Moving '../../../../../../../TheGame/Game/Saved/Inventario69DBD1ED472C682F47FE64BA11E7DFD3.tmp' to '../../../../../../../TheGame/Game/Content/DatiSalvati/Inventario.uasset'
+[2018.10.26-09.17.48:847][134]BlueprintLog: New page: Compile Classe
+[2018.10.26-09.17.49:752][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interfacce/Classe" FILE="../../../../../../../TheGame/Game/Content/Interfacce/Classe.uasset" SILENT=true
+[2018.10.26-09.17.49:870][153]LogSavePackage: Moving '../../../../../../../TheGame/Game/Saved/Classe157750414B21C5A5B0C39F92260073B6.tmp' to '../../../../../../../TheGame/Game/Content/Interfacce/Classe.uasset'
+[2018.10.26-09.17.51:270][236]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.26-09.17.51:359][236]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Mappa/Castello.Castello:PersistentLevel' has LevelScriptBlueprint '/Game/Mappa/Castello.Castello:PersistentLevel.Castello' with GeneratedClass '/Game/Mappa/Castello.Castello_C' with ClassGeneratedBy '/Game/Mappa/Castello.Castello:PersistentLevel.Castello'
+[2018.10.26-09.17.51:359][236]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.26-09.17.51:418][236]PIE: New page: PIE session: Castello (26/ott/2018 13:17:51)
+[2018.10.26-09.17.51:419][236]LogPlayLevel: Creating play world package: /Game/Mappa/UEDPIE_0_Castello
+[2018.10.26-09.17.51:497][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077760s)
+[2018.10.26-09.17.51:504][236]LogAIModule: Creating AISystem for world Castello
+[2018.10.26-09.17.51:504][236]LogPlayLevel: PIE: World Init took: (0.001997s)
+[2018.10.26-09.17.51:504][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mappa/Castello.Castello to /Game/Mappa/UEDPIE_0_Castello.Castello (0.085666s)
+[2018.10.26-09.17.51:567][236]LogInit: XAudio2 using 'Speakers / HP (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.26-09.17.51:590][236]LogInit: FAudioDevice initialized.
+[2018.10.26-09.17.51:595][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.26-09.17.51:737][236]LogLoad: Game class is 'ProtagonistaGameMode_C'
+[2018.10.26-09.17.51:741][236]LogWorld: Bringing World /Game/Mappa/UEDPIE_0_Castello.Castello up for play (max tick rate 60) at 2018.10.26-11.17.51
+[2018.10.26-09.17.51:796][236]LogWorld: Bringing up level for play took: 0.057799
+[2018.10.26-09.17.51:864][236]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 10 classes and 0 folders.
+[2018.10.26-09.17.51:864][236]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.26-09.17.51:864][236]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.26-09.17.51:864][236]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.10.26-09.17.51:943][236]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.10.26-09.17.51:947][236]PIE: Play in editor start time for /Game/Mappa/UEDPIE_0_Castello 1,585
+[2018.10.26-09.17.51:956][236]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Mappa/Castello.Castello:PersistentLevel' has LevelScriptBlueprint '/Game/Mappa/Castello.Castello:PersistentLevel.Castello' with GeneratedClass '/Game/Mappa/Castello.Castello_C' with ClassGeneratedBy '/Game/Mappa/Castello.Castello:PersistentLevel.Castello'
+[2018.10.26-09.17.52:144][236]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.10.26-09.17.59:547][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.26-09.18.02:840][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.26-09.18.05:643][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.26-09.18.12:518][580]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Mappa/Castello.Castello:PersistentLevel' has LevelScriptBlueprint '/Game/Mappa/Castello.Castello:PersistentLevel.Castello' with GeneratedClass '/Game/Mappa/Castello.Castello_C' with ClassGeneratedBy '/Game/Mappa/Castello.Castello:PersistentLevel.Castello'
+[2018.10.26-09.18.12:520][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.26-09.18.12:560][580]LogSlate: Window 'Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.26-09.18.12:623][580]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.26-09.18.12:624][580]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Mappa/Castello.Castello:PersistentLevel' has LevelScriptBlueprint '/Game/Mappa/Castello.Castello:PersistentLevel.Castello' with GeneratedClass '/Game/Mappa/Castello.Castello_C' with ClassGeneratedBy '/Game/Mappa/Castello.Castello:PersistentLevel.Castello'
+[2018.10.26-09.18.12:705][581]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.10.26-09.20.06:590][329]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.26-09.20.06:921][329]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Mappa/Castello.Castello:PersistentLevel' has LevelScriptBlueprint '/Game/Mappa/Castello.Castello:PersistentLevel.Castello' with GeneratedClass '/Game/Mappa/Castello.Castello_C' with ClassGeneratedBy '/Game/Mappa/Castello.Castello:PersistentLevel.Castello'
+[2018.10.26-09.20.06:921][329]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.26-09.20.06:947][329]LogPlayLevel: [PlayLevel] Compiling Classe before play...
+[2018.10.26-09.20.07:217][329]LogPlayLevel: PlayLevel: Blueprint regeneration took 296 ms (1 blueprints)
+[2018.10.26-09.20.07:218][329]PIE: New page: PIE session: Castello (26/ott/2018 13:20:07)
+[2018.10.26-09.20.07:218][329]LogPlayLevel: Creating play world package: /Game/Mappa/UEDPIE_0_Castello
+[2018.10.26-09.20.07:234][329]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016536s)
+[2018.10.26-09.20.07:235][329]LogAIModule: Creating AISystem for world Castello
+[2018.10.26-09.20.07:235][329]LogPlayLevel: PIE: World Init took: (0.001093s)
+[2018.10.26-09.20.07:235][329]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mappa/Castello.Castello to /Game/Mappa/UEDPIE_0_Castello.Castello (0.017825s)
+[2018.10.26-09.20.07:288][329]LogInit: XAudio2 using 'Speakers / HP (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.26-09.20.07:309][329]LogInit: FAudioDevice initialized.
+[2018.10.26-09.20.07:314][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.26-09.20.07:349][329]LogLoad: Game class is 'ProtagonistaGameMode_C'
+[2018.10.26-09.20.07:353][329]LogWorld: Bringing World /Game/Mappa/UEDPIE_0_Castello.Castello up for play (max tick rate 60) at 2018.10.26-11.20.07
+[2018.10.26-09.20.07:353][329]LogWorld: Bringing up level for play took: 0.003077
+[2018.10.26-09.20.07:366][329]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.26-09.20.07:366][329]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.26-09.20.07:366][329]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.10.26-09.20.07:382][329]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.10.26-09.20.07:383][329]PIE: Play in editor start time for /Game/Mappa/UEDPIE_0_Castello 1,019
+[2018.10.26-09.20.07:433][329]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Mappa/Castello.Castello:PersistentLevel' has LevelScriptBlueprint '/Game/Mappa/Castello.Castello:PersistentLevel.Castello' with GeneratedClass '/Game/Mappa/Castello.Castello_C' with ClassGeneratedBy '/Game/Mappa/Castello.Castello:PersistentLevel.Castello'
+[2018.10.26-09.20.13:357][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.26-09.20.16:065][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.26-09.20.30:515][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.26-09.20.31:846][692]LogSlate: Window 'Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.26-09.20.31:880][692]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Mappa/Castello.Castello:PersistentLevel' has LevelScriptBlueprint '/Game/Mappa/Castello.Castello:PersistentLevel.Castello' with GeneratedClass '/Game/Mappa/Castello.Castello_C' with ClassGeneratedBy '/Game/Mappa/Castello.Castello:PersistentLevel.Castello'
+[2018.10.26-09.20.31:908][692]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.26-09.20.31:909][692]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Mappa/Castello.Castello:PersistentLevel' has LevelScriptBlueprint '/Game/Mappa/Castello.Castello:PersistentLevel.Castello' with GeneratedClass '/Game/Mappa/Castello.Castello_C' with ClassGeneratedBy '/Game/Mappa/Castello.Castello:PersistentLevel.Castello'
+[2018.10.26-09.20.31:996][693]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.10.26-09.21.43:171][933]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.26-09.21.43:518][933]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Mappa/Castello.Castello:PersistentLevel' has LevelScriptBlueprint '/Game/Mappa/Castello.Castello:PersistentLevel.Castello' with GeneratedClass '/Game/Mappa/Castello.Castello_C' with ClassGeneratedBy '/Game/Mappa/Castello.Castello:PersistentLevel.Castello'
+[2018.10.26-09.21.43:518][933]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.26-09.21.43:547][933]LogPlayLevel: [PlayLevel] Compiling Classe before play...
+[2018.10.26-09.21.43:820][933]LogPlayLevel: PlayLevel: Blueprint regeneration took 301 ms (1 blueprints)
+[2018.10.26-09.21.43:820][933]PIE: New page: PIE session: Castello (26/ott/2018 13:21:43)
+[2018.10.26-09.21.43:820][933]LogPlayLevel: Creating play world package: /Game/Mappa/UEDPIE_0_Castello
+[2018.10.26-09.21.43:835][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015173s)
+[2018.10.26-09.21.43:837][933]LogAIModule: Creating AISystem for world Castello
+[2018.10.26-09.21.43:837][933]LogPlayLevel: PIE: World Init took: (0.001411s)
+[2018.10.26-09.21.43:837][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mappa/Castello.Castello to /Game/Mappa/UEDPIE_0_Castello.Castello (0.016832s)
+[2018.10.26-09.21.43:887][933]LogInit: XAudio2 using 'Speakers / HP (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.26-09.21.43:906][933]LogInit: FAudioDevice initialized.
+[2018.10.26-09.21.43:911][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.26-09.21.43:943][933]LogLoad: Game class is 'ProtagonistaGameMode_C'
+[2018.10.26-09.21.43:948][933]LogWorld: Bringing World /Game/Mappa/UEDPIE_0_Castello.Castello up for play (max tick rate 60) at 2018.10.26-11.21.43
+[2018.10.26-09.21.43:949][933]LogWorld: Bringing up level for play took: 0.004464
+[2018.10.26-09.21.43:961][933]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.26-09.21.43:961][933]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.26-09.21.43:961][933]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.10.26-09.21.43:978][933]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.10.26-09.21.43:979][933]PIE: Play in editor start time for /Game/Mappa/UEDPIE_0_Castello -0,386
+[2018.10.26-09.21.43:979][933]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Mappa/Castello.Castello:PersistentLevel' has LevelScriptBlueprint '/Game/Mappa/Castello.Castello:PersistentLevel.Castello' with GeneratedClass '/Game/Mappa/Castello.Castello_C' with ClassGeneratedBy '/Game/Mappa/Castello.Castello:PersistentLevel.Castello'
+[2018.10.26-09.21.49:750][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.26-09.21.52:387][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.26-09.22.00:584][196]LogSlate: Window 'Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.26-09.22.00:621][196]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Mappa/Castello.Castello:PersistentLevel' has LevelScriptBlueprint '/Game/Mappa/Castello.Castello:PersistentLevel.Castello' with GeneratedClass '/Game/Mappa/Castello.Castello_C' with ClassGeneratedBy '/Game/Mappa/Castello.Castello:PersistentLevel.Castello'
+[2018.10.26-09.22.00:656][196]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.26-09.22.00:656][196]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Mappa/Castello.Castello:PersistentLevel' has LevelScriptBlueprint '/Game/Mappa/Castello.Castello:PersistentLevel.Castello' with GeneratedClass '/Game/Mappa/Castello.Castello_C' with ClassGeneratedBy '/Game/Mappa/Castello.Castello:PersistentLevel.Castello'
+[2018.10.26-09.22.00:741][197]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.10.26-09.22.12:234][844]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/DatiSalvati/Inventario.Inventario
+[2018.10.26-09.22.53:657][201]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Mappa/Castello' took 0.066
+[2018.10.26-09.22.53:694][201]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Interfacce/Classe] ([1] browsable assets)...
+[2018.10.26-09.22.53:694][201]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interfacce/Classe]
+[2018.10.26-09.22.53:694][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interfacce/Classe" FILE="../../../../../../../TheGame/Game/Saved/Autosaves/Game/Interfacce/Classe_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.10.26-09.22.53:801][201]LogSavePackage: Moving '../../../../../../../TheGame/Game/Saved/Classe_Auto18B87494348274E91AB57E2AD66919680.tmp' to '../../../../../../../TheGame/Game/Saved/Autosaves/Game/Interfacce/Classe_Auto1.uasset'
+[2018.10.26-09.22.53:835][201]LogFileHelpers: Auto-saving content packages took 0.177
+[2018.10.26-09.29.21:770][184]BlueprintLog: New page: Compile Inventario
+[2018.10.26-09.29.22:772][209]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.26-09.29.22:811][209]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Mappa/Castello.Castello:PersistentLevel' has LevelScriptBlueprint '/Game/Mappa/Castello.Castello:PersistentLevel.Castello' with GeneratedClass '/Game/Mappa/Castello.Castello_C' with ClassGeneratedBy '/Game/Mappa/Castello.Castello:PersistentLevel.Castello'
+[2018.10.26-09.29.22:811][209]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.26-09.29.22:811][209]PIE: New page: PIE session: Castello (26/ott/2018 13:29:22)
+[2018.10.26-09.29.22:811][209]LogPlayLevel: Creating play world package: /Game/Mappa/UEDPIE_0_Castello
+[2018.10.26-09.29.22:830][209]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018218s)
+[2018.10.26-09.29.22:831][209]LogAIModule: Creating AISystem for world Castello
+[2018.10.26-09.29.22:831][209]LogPlayLevel: PIE: World Init took: (0.001318s)
+[2018.10.26-09.29.22:831][209]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mappa/Castello.Castello to /Game/Mappa/UEDPIE_0_Castello.Castello (0.019751s)
+[2018.10.26-09.29.22:886][209]LogInit: XAudio2 using 'Speakers / HP (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.26-09.29.22:908][209]LogInit: FAudioDevice initialized.
+[2018.10.26-09.29.22:913][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.26-09.29.22:947][209]LogLoad: Game class is 'ProtagonistaGameMode_C'
+[2018.10.26-09.29.22:953][209]LogWorld: Bringing World /Game/Mappa/UEDPIE_0_Castello.Castello up for play (max tick rate 60) at 2018.10.26-11.29.22
+[2018.10.26-09.29.22:954][209]LogWorld: Bringing up level for play took: 0.005523
+[2018.10.26-09.29.22:966][209]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.26-09.29.22:966][209]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.26-09.29.22:966][209]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.10.26-09.29.22:981][209]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.10.26-09.29.22:983][209]PIE: Play in editor start time for /Game/Mappa/UEDPIE_0_Castello 0,611
+[2018.10.26-09.29.22:984][209]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Mappa/Castello.Castello:PersistentLevel' has LevelScriptBlueprint '/Game/Mappa/Castello.Castello:PersistentLevel.Castello' with GeneratedClass '/Game/Mappa/Castello.Castello_C' with ClassGeneratedBy '/Game/Mappa/Castello.Castello:PersistentLevel.Castello'
+[2018.10.26-09.29.28:507][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.26-09.29.31:863][347]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.26-09.29.35:241][399]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Mappa/Castello.Castello:PersistentLevel' has LevelScriptBlueprint '/Game/Mappa/Castello.Castello:PersistentLevel.Castello' with GeneratedClass '/Game/Mappa/Castello.Castello_C' with ClassGeneratedBy '/Game/Mappa/Castello.Castello:PersistentLevel.Castello'
+[2018.10.26-09.29.35:242][399]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.26-09.29.35:279][399]LogSlate: Window 'Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.26-09.29.35:338][399]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.26-09.29.35:339][399]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Mappa/Castello.Castello:PersistentLevel' has LevelScriptBlueprint '/Game/Mappa/Castello.Castello:PersistentLevel.Castello' with GeneratedClass '/Game/Mappa/Castello.Castello_C' with ClassGeneratedBy '/Game/Mappa/Castello.Castello:PersistentLevel.Castello'
+[2018.10.26-09.29.35:412][400]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.10.26-09.29.55:623][568]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.26-09.29.55:662][568]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Mappa/Castello.Castello:PersistentLevel' has LevelScriptBlueprint '/Game/Mappa/Castello.Castello:PersistentLevel.Castello' with GeneratedClass '/Game/Mappa/Castello.Castello_C' with ClassGeneratedBy '/Game/Mappa/Castello.Castello:PersistentLevel.Castello'
+[2018.10.26-09.29.55:663][568]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.26-09.29.55:663][568]PIE: New page: PIE session: Castello (26/ott/2018 13:29:55)
+[2018.10.26-09.29.55:663][568]LogPlayLevel: Creating play world package: /Game/Mappa/UEDPIE_0_Castello
+[2018.10.26-09.29.55:680][568]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017233s)
+[2018.10.26-09.29.55:681][568]LogAIModule: Creating AISystem for world Castello
+[2018.10.26-09.29.55:681][568]LogPlayLevel: PIE: World Init took: (0.001072s)
+[2018.10.26-09.29.55:681][568]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mappa/Castello.Castello to /Game/Mappa/UEDPIE_0_Castello.Castello (0.018499s)
+[2018.10.26-09.29.55:730][568]LogInit: XAudio2 using 'Speakers / HP (IDT High Definition Audio CODEC)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.26-09.29.55:750][568]LogInit: FAudioDevice initialized.
+[2018.10.26-09.29.55:755][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.26-09.29.55:792][568]LogLoad: Game class is 'ProtagonistaGameMode_C'
+[2018.10.26-09.29.55:796][568]LogWorld: Bringing World /Game/Mappa/UEDPIE_0_Castello.Castello up for play (max tick rate 60) at 2018.10.26-11.29.55
+[2018.10.26-09.29.55:797][568]LogWorld: Bringing up level for play took: 0.003354
+[2018.10.26-09.29.55:809][568]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.26-09.29.55:809][568]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.26-09.29.55:809][568]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.10.26-09.29.55:824][568]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.10.26-09.29.55:827][568]PIE: Play in editor start time for /Game/Mappa/UEDPIE_0_Castello -0,546
+[2018.10.26-09.29.55:828][568]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Mappa/Castello.Castello:PersistentLevel' has LevelScriptBlueprint '/Game/Mappa/Castello.Castello:PersistentLevel.Castello' with GeneratedClass '/Game/Mappa/Castello.Castello_C' with ClassGeneratedBy '/Game/Mappa/Castello.Castello:PersistentLevel.Castello'
+[2018.10.26-09.30.00:821][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.26-09.30.02:574][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.26-09.30.02:699][670]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_VariableSet', from offset 508
+[2018.10.26-09.30.02:699][670]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Interfacce/Classe.Classe_C:BndEvt__Button_153_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature
+	Function /Game/Interfacce/Classe.Classe_C:ExecuteUbergraph_Classe
+
+[2018.10.26-09.30.19:021][670]LogUObjectBase: Warning: Object is not registered
+[2018.10.26-09.30.19:021][670]LogOutputDevice: Warning: 
+
+Script Stack:
+Classe_C.ExecuteUbergraph_Classe
+Classe_C.BndEvt__Button_153_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature
+
+[2018.10.26-09.30.20:814][670]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.793 s
+[2018.10.26-09.30.20:814][670]LogOutputDevice: Error: === Handled ensure: ===
+[2018.10.26-09.30.20:814][670]LogOutputDevice: Error: 
+[2018.10.26-09.30.20:814][670]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2018.10.26-09.30.20:814][670]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.10.26-09.30.20:814][670]LogOutputDevice: Error: Stack: 
+[2018.10.26-09.30.20:815][670]LogOutputDevice: Error: [Callstack] 0x000007fede6471e6 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.26-09.30.20:815][670]LogOutputDevice: Error: [Callstack] 0x000007fede380c82 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.26-09.30.20:815][670]LogOutputDevice: Error: [Callstack] 0x000007fede39b346 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.26-09.30.20:815][670]LogOutputDevice: Error: [Callstack] 0x000007fed68711db UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.26-09.30.20:815][670]LogOutputDevice: Error: [Callstack] 0x000007fed688060e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.26-09.30.20:815][670]LogOutputDevice: Error: [Callstack] 0x000007fec602da3a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.10.26-09.30.20:815][670]LogOutputDevice: Error: [Callstack] 0x000007fec664ec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.10.26-09.30.20:815][670]LogOutputDevice: Error: [Callstack] 0x000007fec660f337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.10.26-09.30.20:815][670]LogOutputDevice: Error: [Callstack] 0x000007fed90a8204 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.26-09.30.20:815][670]LogOutputDevice: Error: [Callstack] 0x000007fed92ee933 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.26-09.30.20:815][670]LogOutputDevice: Error: [Callstack] 0x000007fed910281a UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.26-09.30.20:815][670]LogOutputDevice: Error: [Callstack] 0x000007fed90d8190 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.26-09.30.20:815][670]LogOutputDevice: Error: [Callstack] 0x000007fed90cb073 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.26-09.30.20:815][670]LogOutputDevice: Error: [Callstack] 0x000007fedf59d007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.26-09.30.20:815][670]LogOutputDevice: Error: [Callstack] 0x000007fedf590270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.26-09.30.20:815][670]LogOutputDevice: Error: [Callstack] 0x000007fedf59f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.26-09.30.20:815][670]LogOutputDevice: Error: [Callstack] 0x000007fedf58c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.26-09.30.20:815][670]LogOutputDevice: Error: [Callstack] 0x0000000076ca9bbd USER32.dll!UnknownFunction []
+[2018.10.26-09.30.20:815][670]LogOutputDevice: Error: [Callstack] 0x0000000076ca98c2 USER32.dll!UnknownFunction []
+[2018.10.26-09.30.20:815][670]LogOutputDevice: Error: [Callstack] 0x000007fedf5a05a9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.26-09.30.20:815][670]LogOutputDevice: Error: [Callstack] 0x000007fed90ff2b2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.26-09.30.20:816][670]LogOutputDevice: Error: [Callstack] 0x000007fed90fdd08 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.26-09.30.20:816][670]LogOutputDevice: Error: [Callstack] 0x000007fed90a1c8a UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.26-09.30.20:816][670]LogOutputDevice: Error: [Callstack] 0x000007fed6855824 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.26-09.30.20:816][670]LogOutputDevice: Error: [Callstack] 0x000007fed688b698 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.26-09.30.20:816][670]LogOutputDevice: Error: [Callstack] 0x000007fed6d2751a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.26-09.30.20:816][670]LogOutputDevice: Error: [Callstack] 0x000007fedfa39903 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.26-09.30.20:816][670]LogOutputDevice: Error: [Callstack] 0x000007fedfa3f58a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.26-09.30.20:816][670]LogOutputDevice: Error: [Callstack] 0x000007fedfa11b86 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.26-09.30.20:816][670]LogOutputDevice: Error: [Callstack] 0x000007fedf9f204d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.26-09.30.20:816][670]LogOutputDevice: Error: [Callstack] 0x000007fedfa11b86 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.26-09.30.20:816][670]LogOutputDevice: Error: [Callstack] 0x000007fedf7e6467 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.26-09.30.20:816][670]LogOutputDevice: Error: [Callstack] 0x000007fedfa11123 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.26-09.30.20:816][670]LogOutputDevice: Error: [Callstack] 0x000007fed4d55be1 UE4Editor-UMG.dll!UnknownFunction []
+[2018.10.26-09.30.20:816][670]LogOutputDevice: Error: [Callstack] 0x000007fed4e71147 UE4Editor-UMG.dll!UnknownFunction []
+[2018.10.26-09.30.20:816][670]LogOutputDevice: Error: [Callstack] 0x000007fed4ddf7ab UE4Editor-UMG.dll!UnknownFunction []
+[2018.10.26-09.30.20:816][670]LogOutputDevice: Error: [Callstack] 0x000007fed9269c3b UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.26-09.30.20:816][670]LogOutputDevice: Error: [Callstack] 0x000007fed90594c5 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.26-09.30.20:816][670]LogOutputDevice: Error: [Callstack] 0x000007fed90f1db2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.26-09.30.20:816][670]LogOutputDevice: Error: [Callstack] 0x000007fed90d7c7a UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.26-09.30.20:816][670]LogOutputDevice: Error: [Callstack] 0x000007fed90cb25c UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.26-09.30.20:817][670]LogOutputDevice: Error: [Callstack] 0x000007fedf59d1c7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.26-09.30.20:817][670]LogOutputDevice: Error: [Callstack] 0x000007fedf590270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.26-09.30.20:817][670]LogOutputDevice: Error: [Callstack] 0x000007fedf59f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.26-09.30.20:817][670]LogOutputDevice: Error: [Callstack] 0x000007fedf58c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.26-09.30.20:817][670]LogOutputDevice: Error: [Callstack] 0x0000000076ca9bbd USER32.dll!UnknownFunction []
+[2018.10.26-09.30.20:817][670]LogOutputDevice: Error: [Callstack] 0x0000000076ca98c2 USER32.dll!UnknownFunction []
+[2018.10.26-09.30.20:817][670]LogOutputDevice: Error: [Callstack] 0x000007fedf5a0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.26-09.30.20:817][670]LogOutputDevice: Error: [Callstack] 0x000000013ffa54e5 UE4Editor.exe!UnknownFunction []
+[2018.10.26-09.30.20:817][670]LogOutputDevice: Error: [Callstack] 0x000000013ffb5b3c UE4Editor.exe!UnknownFunction []
+[2018.10.26-09.30.20:817][670]LogOutputDevice: Error: [Callstack] 0x000000013ffb5bba UE4Editor.exe!UnknownFunction []
+[2018.10.26-09.30.20:817][670]LogOutputDevice: Error: [Callstack] 0x000000013ffc3dac UE4Editor.exe!UnknownFunction []
+[2018.10.26-09.30.20:817][670]LogOutputDevice: Error: [Callstack] 0x000000013ffc5aaa UE4Editor.exe!UnknownFunction []
+[2018.10.26-09.30.20:817][670]LogOutputDevice: Error: [Callstack] 0x0000000076b859cd kernel32.dll!UnknownFunction []
+[2018.10.26-09.30.20:817][670]LogOutputDevice: Error: [Callstack] 0x0000000076de385d ntdll.dll!UnknownFunction []
+[2018.10.26-09.30.20:817][670]LogOutputDevice: Error: 
+[2018.10.26-09.30.20:821][670]LogStats:                SubmitErrorReport -  0.000 s
